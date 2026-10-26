@@ -1,0 +1,2401 @@
+﻿id_apprenant,methode,niveau_initial,score_final,reussite,age,region,heures_etude
+AP0001,B,intermédiaire,70.6,1,38,Québec,28.1
+AP0002,B,débutant,52.5,0,32,Outaouais,21.9
+AP0003,A,avancé,56.2,0,21,Hors Québec,23.5
+AP0004,A,avancé,70.5,1,36,Outaouais,17.8
+AP0005,B,débutant,81.7,1,33,Québec,29.3
+AP0006,B,débutant,53.3,0,30,Outaouais,18.5
+AP0007,B,débutant,38.5,0,19,Montréal,22.1
+AP0008,B,intermédiaire,64.2,1,28,Montréal,25.3
+AP0009,B,débutant,60.2,1,27,Hors Québec,16.1
+AP0010,A,avancé,91.0,1,28,Hors Québec,21.3
+AP0011,A,avancé,74.6,1,36,Hors Québec,23.5
+AP0012,B,intermédiaire,49.4,0,42,Outaouais,22.8
+AP0013,B,intermédiaire,81.5,1,28,Hors Québec,18.9
+AP0014,B,débutant,63.6,1,27,Hors Québec,19.9
+AP0015,A,avancé,74.3,1,34,Québec,31.8
+AP0016,B,intermédiaire,55.4,0,40,Hors Québec,27.7
+AP0017,A,avancé,57.8,0,21,Outaouais,23.9
+AP0018,B,débutant,26.3,0,27,Outaouais,29.2
+AP0019,B,débutant,60.4,1,32,Québec,25.6
+AP0020,A,avancé,54.6,0,20,Outaouais,21.6
+AP0021,A,débutant,41.5,0,35,Outaouais,27.4
+AP0022,A,intermédiaire,88.5,1,27,Hors Québec,24.5
+AP0023,A,avancé,83.7,1,20,Outaouais,21.3
+AP0024,B,débutant,40.7,0,23,Outaouais,23.2
+AP0025,A,avancé,78.0,1,37,Montréal,36.3
+AP0026,B,intermédiaire,48.2,0,22,Québec,14.5
+AP0027,A,intermédiaire,49.2,0,38,Québec,17.4
+AP0028,B,débutant,28.0,0,38,Hors Québec,20.5
+AP0029,A,avancé,87.2,1,19,Montréal,22.1
+AP0030,B,intermédiaire,63.9,1,35,Montréal,17.9
+AP0031,A,avancé,59.7,0,43,Hors Québec,23.8
+AP0032,A,avancé,73.0,1,34,Outaouais,18.5
+AP0033,A,avancé,80.2,1,30,Montréal,12.7
+AP0034,A,avancé,72.3,1,43,Québec,7.5
+AP0035,A,intermédiaire,53.3,0,29,Hors Québec,21.8
+AP0036,B,débutant,76.9,1,45,Québec,17.4
+AP0037,B,débutant,60.0,1,33,Québec,20.3
+AP0038,A,avancé,53.2,0,37,Québec,10.4
+AP0039,B,débutant,61.1,1,43,Hors Québec,23.1
+AP0040,B,débutant,51.0,0,21,Québec,10.7
+AP0041,A,intermédiaire,69.6,1,45,Outaouais,26.7
+AP0042,A,avancé,78.9,1,40,Montréal,26.1
+AP0043,A,avancé,53.1,0,33,Outaouais,17.9
+AP0044,A,intermédiaire,48.7,0,34,Hors Québec,23.5
+AP0045,B,débutant,85.3,1,37,Montréal,21.6
+AP0046,A,avancé,87.8,1,40,Hors Québec,14.7
+AP0047,A,débutant,61.5,1,23,Outaouais,19.0
+AP0048,A,avancé,57.7,0,31,Montréal,22.7
+AP0049,B,débutant,51.9,0,41,Hors Québec,31.8
+AP0050,A,avancé,63.5,1,26,Hors Québec,17.4
+AP0051,A,avancé,72.3,1,37,Québec,25.8
+AP0052,B,débutant,74.8,1,26,Québec,23.5
+AP0053,B,débutant,59.6,0,45,Montréal,27.1
+AP0054,A,avancé,59.7,0,23,Montréal,20.1
+AP0055,B,débutant,58.8,0,21,Outaouais,21.2
+AP0056,B,intermédiaire,60.8,1,19,Montréal,18.2
+AP0057,A,intermédiaire,42.0,0,30,Hors Québec,21.3
+AP0058,A,avancé,67.7,1,33,Outaouais,20.6
+AP0059,B,intermédiaire,66.4,1,39,Montréal,22.9
+AP0060,A,intermédiaire,69.0,1,33,Outaouais,26.3
+AP0061,B,intermédiaire,54.5,0,39,Hors Québec,22.6
+AP0062,A,avancé,62.5,1,42,Hors Québec,28.1
+AP0063,B,avancé,88.5,1,43,Montréal,17.7
+AP0064,A,avancé,63.3,1,37,Montréal,24.6
+AP0065,A,avancé,53.9,0,21,Hors Québec,28.9
+AP0066,B,avancé,92.5,1,34,Québec,21.9
+AP0067,A,avancé,58.9,0,39,Hors Québec,16.1
+AP0068,B,débutant,49.1,0,36,Hors Québec,27.8
+AP0069,B,débutant,63.8,1,28,Hors Québec,18.6
+AP0070,B,débutant,62.9,1,45,Hors Québec,24.1
+AP0071,B,débutant,26.9,0,28,Hors Québec,26.8
+AP0072,A,intermédiaire,70.1,1,36,Hors Québec,28.3
+AP0073,B,débutant,57.4,0,20,Hors Québec,15.1
+AP0074,A,intermédiaire,81.6,1,19,Québec,23.7
+AP0075,B,débutant,65.6,1,44,Hors Québec,21.4
+AP0076,B,débutant,63.1,1,33,Outaouais,29.3
+AP0077,B,intermédiaire,72.1,1,42,Québec,16.8
+AP0078,B,débutant,62.8,1,22,Montréal,22.7
+AP0079,A,avancé,45.4,0,28,Outaouais,23.2
+AP0080,A,avancé,91.4,1,30,Québec,22.9
+AP0081,B,débutant,59.4,0,40,Québec,24.9
+AP0082,A,avancé,83.0,1,36,Outaouais,16.2
+AP0083,B,débutant,65.4,1,38,Montréal,22.7
+AP0084,A,avancé,78.3,1,45,Montréal,21.1
+AP0085,A,avancé,61.6,1,29,Montréal,25.2
+AP0086,B,débutant,67.8,1,31,Québec,25.3
+AP0087,A,débutant,39.0,0,35,Montréal,22.4
+AP0088,A,avancé,67.9,1,19,Outaouais,20.4
+AP0089,B,débutant,44.3,0,41,Hors Québec,20.2
+AP0090,A,intermédiaire,48.2,0,40,Hors Québec,17.6
+AP0091,B,débutant,68.2,1,42,Québec,10.3
+AP0092,A,débutant,34.5,0,45,Hors Québec,21.0
+AP0093,B,débutant,23.8,0,22,Montréal,22.0
+AP0094,A,avancé,76.8,1,39,Québec,9.3
+AP0095,B,débutant,57.0,0,25,Montréal,26.6
+AP0096,B,débutant,45.0,0,24,Montréal,24.4
+AP0097,B,débutant,69.8,1,29,Hors Québec,24.4
+AP0098,A,avancé,49.4,0,37,Montréal,27.2
+AP0099,A,avancé,54.6,0,26,Hors Québec,17.8
+AP0100,B,intermédiaire,52.8,0,29,Hors Québec,19.6
+AP0101,B,intermédiaire,58.3,0,37,Québec,21.4
+AP0102,A,débutant,48.6,0,31,Outaouais,19.6
+AP0103,A,avancé,72.3,1,29,Outaouais,14.4
+AP0104,A,débutant,35.9,0,41,Montréal,23.5
+AP0105,A,avancé,49.0,0,41,Hors Québec,26.4
+AP0106,A,débutant,24.5,0,25,Montréal,34.0
+AP0107,A,intermédiaire,69.0,1,28,Québec,17.4
+AP0108,A,intermédiaire,34.7,0,24,Montréal,28.1
+AP0109,A,avancé,67.5,1,41,Montréal,32.4
+AP0110,B,débutant,47.1,0,25,Québec,21.5
+AP0111,A,avancé,76.3,1,25,Québec,24.6
+AP0112,B,débutant,50.9,0,22,Québec,26.2
+AP0113,B,débutant,39.2,0,32,Québec,28.9
+AP0114,A,avancé,74.4,1,25,Hors Québec,20.3
+AP0115,B,intermédiaire,88.1,1,25,Hors Québec,11.3
+AP0116,B,intermédiaire,66.6,1,45,Québec,26.4
+AP0117,B,débutant,41.1,0,21,Québec,24.6
+AP0118,B,débutant,50.3,0,30,Québec,23.5
+AP0119,B,débutant,64.6,1,19,Montréal,21.4
+AP0120,B,débutant,32.0,0,42,Québec,25.2
+AP0121,B,avancé,68.8,1,23,Montréal,8.0
+AP0122,B,débutant,78.8,1,22,Hors Québec,27.2
+AP0123,B,débutant,41.6,0,31,Montréal,17.2
+AP0124,B,débutant,59.0,0,45,Outaouais,17.5
+AP0125,A,intermédiaire,58.5,0,45,Montréal,36.2
+AP0126,B,débutant,63.4,1,44,Québec,24.5
+AP0127,B,débutant,65.8,1,25,Montréal,27.5
+AP0128,B,débutant,69.5,1,27,Montréal,18.3
+AP0129,B,débutant,72.6,1,35,Québec,24.2
+AP0130,A,avancé,77.0,1,19,Hors Québec,21.4
+AP0131,B,débutant,54.2,0,44,Québec,23.4
+AP0132,A,avancé,72.3,1,28,Outaouais,23.8
+AP0133,A,intermédiaire,51.2,0,24,Montréal,27.8
+AP0134,B,intermédiaire,81.1,1,38,Outaouais,24.0
+AP0135,B,débutant,36.1,0,42,Québec,29.9
+AP0136,B,débutant,55.1,0,26,Hors Québec,26.2
+AP0137,A,intermédiaire,52.6,0,43,Hors Québec,29.2
+AP0138,B,débutant,78.2,1,27,Hors Québec,22.5
+AP0139,A,avancé,60.7,1,22,Québec,25.8
+AP0140,A,avancé,90.5,1,36,Outaouais,22.8
+AP0141,B,débutant,60.6,1,43,Montréal,16.1
+AP0142,A,intermédiaire,69.2,1,20,Montréal,32.0
+AP0143,B,débutant,70.8,1,22,Québec,22.9
+AP0144,A,avancé,67.7,1,21,Montréal,22.5
+AP0145,A,avancé,64.1,1,30,Montréal,19.5
+AP0146,B,débutant,72.9,1,24,Hors Québec,23.9
+AP0147,A,avancé,79.8,1,28,Québec,20.9
+AP0148,A,avancé,74.3,1,26,Hors Québec,17.8
+AP0149,B,débutant,70.2,1,21,Outaouais,13.2
+AP0150,B,débutant,59.3,0,36,Montréal,25.6
+AP0151,A,avancé,52.6,0,40,Outaouais,17.7
+AP0152,B,intermédiaire,69.4,1,20,Québec,30.8
+AP0153,A,intermédiaire,38.0,0,28,Montréal,21.2
+AP0154,B,débutant,59.8,0,38,Hors Québec,21.6
+AP0155,B,débutant,52.9,0,21,Québec,22.9
+AP0156,A,avancé,88.6,1,20,Hors Québec,21.5
+AP0157,A,avancé,56.4,0,23,Hors Québec,19.0
+AP0158,B,débutant,47.3,0,20,Hors Québec,21.2
+AP0159,A,avancé,73.9,1,36,Hors Québec,15.4
+AP0160,B,débutant,73.7,1,23,Québec,15.1
+AP0161,B,intermédiaire,75.0,1,29,Montréal,24.4
+AP0162,B,intermédiaire,88.9,1,19,Hors Québec,25.6
+AP0163,B,avancé,76.8,1,28,Hors Québec,18.4
+AP0164,B,intermédiaire,88.0,1,31,Hors Québec,25.5
+AP0165,B,intermédiaire,66.0,1,24,Québec,27.2
+AP0166,A,avancé,75.6,1,37,Hors Québec,15.5
+AP0167,A,avancé,83.9,1,24,Outaouais,20.9
+AP0168,A,avancé,64.7,1,19,Outaouais,27.7
+AP0169,B,débutant,49.4,0,41,Québec,13.6
+AP0170,A,intermédiaire,87.0,1,45,Montréal,25.4
+AP0171,A,avancé,86.4,1,27,Québec,21.0
+AP0172,A,avancé,77.4,1,40,Hors Québec,20.3
+AP0173,B,débutant,51.8,0,38,Québec,17.6
+AP0174,B,débutant,69.7,1,31,Montréal,27.1
+AP0175,B,débutant,59.7,0,32,Hors Québec,30.6
+AP0176,B,débutant,53.8,0,34,Hors Québec,25.8
+AP0177,B,débutant,38.5,0,31,Montréal,23.3
+AP0178,B,débutant,40.6,0,23,Hors Québec,29.4
+AP0179,B,intermédiaire,33.3,0,20,Hors Québec,21.2
+AP0180,B,débutant,84.5,1,34,Québec,27.2
+AP0181,A,avancé,75.6,1,44,Québec,34.2
+AP0182,A,avancé,71.7,1,23,Hors Québec,14.9
+AP0183,A,avancé,73.0,1,39,Hors Québec,24.0
+AP0184,B,débutant,62.9,1,21,Outaouais,24.9
+AP0185,A,avancé,55.5,0,24,Outaouais,19.3
+AP0186,B,intermédiaire,56.9,0,34,Québec,12.7
+AP0187,A,avancé,81.8,1,45,Québec,17.5
+AP0188,A,intermédiaire,64.3,1,33,Outaouais,27.9
+AP0189,A,avancé,95.1,1,43,Hors Québec,11.3
+AP0190,A,avancé,74.6,1,24,Outaouais,18.4
+AP0191,A,avancé,63.3,1,29,Québec,21.3
+AP0192,B,intermédiaire,80.6,1,44,Québec,12.0
+AP0193,A,avancé,65.2,1,28,Montréal,16.3
+AP0194,A,avancé,61.9,1,27,Hors Québec,25.0
+AP0195,A,intermédiaire,55.9,0,26,Outaouais,27.3
+AP0196,A,avancé,83.3,1,35,Outaouais,17.6
+AP0197,A,avancé,65.1,1,31,Hors Québec,20.0
+AP0198,B,débutant,49.2,0,29,Québec,17.2
+AP0199,B,débutant,56.6,0,25,Hors Québec,28.7
+AP0200,B,débutant,55.9,0,43,Hors Québec,32.4
+AP0201,B,intermédiaire,54.5,0,41,Québec,16.0
+AP0202,A,avancé,60.6,1,27,Montréal,28.5
+AP0203,B,débutant,59.9,0,44,Outaouais,20.6
+AP0204,A,avancé,75.1,1,37,Hors Québec,19.1
+AP0205,B,débutant,45.0,0,33,Québec,28.8
+AP0206,A,avancé,81.8,1,33,Québec,20.3
+AP0207,A,avancé,65.9,1,32,Hors Québec,24.1
+AP0208,A,avancé,85.6,1,43,Hors Québec,28.4
+AP0209,B,débutant,59.3,0,27,Montréal,26.5
+AP0210,A,avancé,100.0,1,19,Montréal,19.5
+AP0211,A,avancé,63.3,1,28,Hors Québec,33.0
+AP0212,B,avancé,93.8,1,30,Montréal,24.7
+AP0213,A,avancé,76.0,1,23,Outaouais,18.6
+AP0214,B,avancé,88.6,1,28,Hors Québec,28.5
+AP0215,A,avancé,64.9,1,26,Québec,6.9
+AP0216,B,débutant,41.4,0,22,Québec,27.0
+AP0217,B,débutant,70.1,1,27,Montréal,16.2
+AP0218,A,intermédiaire,59.3,0,21,Québec,28.4
+AP0219,B,intermédiaire,59.1,0,22,Québec,20.7
+AP0220,A,avancé,70.2,1,26,Québec,15.2
+AP0221,B,débutant,66.1,1,45,Québec,16.6
+AP0222,A,avancé,80.6,1,23,Québec,20.6
+AP0223,A,avancé,80.0,1,34,Montréal,25.3
+AP0224,B,débutant,45.9,0,42,Québec,26.3
+AP0225,A,intermédiaire,47.5,0,32,Québec,19.4
+AP0226,A,avancé,47.2,0,43,Montréal,22.7
+AP0227,A,avancé,67.7,1,27,Montréal,18.6
+AP0228,B,intermédiaire,82.2,1,39,Montréal,22.4
+AP0229,A,avancé,55.7,0,30,Montréal,23.0
+AP0230,B,débutant,69.9,1,45,Québec,21.4
+AP0231,B,débutant,62.8,1,45,Québec,24.6
+AP0232,B,intermédiaire,63.3,1,40,Hors Québec,21.9
+AP0233,B,débutant,37.8,0,23,Montréal,25.4
+AP0234,B,débutant,47.7,0,43,Québec,23.0
+AP0235,B,débutant,72.1,1,43,Hors Québec,22.0
+AP0236,A,avancé,69.7,1,19,Hors Québec,15.4
+AP0237,A,avancé,77.5,1,42,Outaouais,29.6
+AP0238,B,débutant,71.0,1,30,Québec,24.0
+AP0239,A,avancé,69.3,1,42,Québec,21.4
+AP0240,B,débutant,58.6,0,37,Montréal,23.1
+AP0241,A,avancé,79.3,1,33,Outaouais,24.8
+AP0242,B,débutant,68.0,1,42,Outaouais,22.8
+AP0243,A,avancé,46.0,0,31,Hors Québec,30.3
+AP0244,B,débutant,70.2,1,37,Hors Québec,27.5
+AP0245,A,avancé,66.3,1,23,Montréal,21.9
+AP0246,A,avancé,68.0,1,28,Outaouais,15.8
+AP0247,B,débutant,71.8,1,26,Outaouais,16.9
+AP0248,B,avancé,86.3,1,36,Québec,16.0
+AP0249,B,débutant,50.6,0,45,Québec,17.1
+AP0250,A,avancé,74.7,1,22,Montréal,20.4
+AP0251,A,débutant,46.2,0,26,Québec,20.1
+AP0252,A,avancé,79.0,1,44,Outaouais,24.7
+AP0253,B,avancé,74.2,1,25,Outaouais,22.4
+AP0254,B,débutant,44.9,0,24,Hors Québec,30.3
+AP0255,A,avancé,75.1,1,35,Hors Québec,23.3
+AP0256,A,débutant,50.0,0,19,Québec,19.4
+AP0257,A,avancé,71.9,1,37,Hors Québec,12.8
+AP0258,B,débutant,68.0,1,21,Québec,24.8
+AP0259,B,débutant,33.3,0,43,Montréal,13.0
+AP0260,B,avancé,61.9,1,24,Montréal,26.2
+AP0261,A,avancé,77.4,1,32,Outaouais,26.6
+AP0262,B,débutant,62.0,1,23,Montréal,23.3
+AP0263,A,avancé,59.1,0,23,Outaouais,16.5
+AP0264,B,débutant,55.8,0,29,Outaouais,20.4
+AP0265,A,débutant,47.9,0,24,Québec,19.0
+AP0266,A,intermédiaire,45.6,0,30,Montréal,11.5
+AP0267,B,débutant,38.0,0,33,Québec,24.3
+AP0268,B,débutant,65.7,1,36,Outaouais,14.0
+AP0269,B,intermédiaire,69.3,1,28,Hors Québec,21.0
+AP0270,A,avancé,70.4,1,25,Montréal,31.4
+AP0271,B,débutant,60.9,1,34,Québec,15.4
+AP0272,B,débutant,47.9,0,20,Hors Québec,12.4
+AP0273,A,avancé,62.4,1,20,Outaouais,29.6
+AP0274,A,avancé,71.0,1,20,Hors Québec,11.1
+AP0275,A,intermédiaire,61.4,1,33,Montréal,15.6
+AP0276,A,avancé,86.3,1,22,Outaouais,15.0
+AP0277,B,avancé,71.7,1,28,Outaouais,10.8
+AP0278,B,débutant,57.1,0,34,Outaouais,25.6
+AP0279,B,avancé,99.1,1,39,Outaouais,22.5
+AP0280,B,débutant,52.5,0,43,Montréal,27.1
+AP0281,A,intermédiaire,57.4,0,22,Hors Québec,17.1
+AP0282,A,avancé,65.2,1,36,Outaouais,21.7
+AP0283,B,débutant,62.7,1,43,Hors Québec,34.1
+AP0284,A,avancé,74.6,1,37,Montréal,6.5
+AP0285,B,débutant,50.2,0,32,Outaouais,29.2
+AP0286,B,débutant,60.7,1,34,Hors Québec,20.8
+AP0287,B,débutant,68.2,1,45,Hors Québec,29.5
+AP0288,A,avancé,63.9,1,44,Québec,37.3
+AP0289,B,intermédiaire,72.5,1,33,Hors Québec,16.5
+AP0290,A,avancé,60.2,1,43,Hors Québec,21.0
+AP0291,A,avancé,79.1,1,27,Québec,26.4
+AP0292,B,débutant,49.7,0,35,Hors Québec,14.8
+AP0293,A,avancé,72.0,1,29,Montréal,18.8
+AP0294,A,avancé,82.7,1,27,Québec,25.6
+AP0295,A,avancé,79.6,1,41,Montréal,18.4
+AP0296,A,intermédiaire,66.1,1,31,Montréal,24.7
+AP0297,A,avancé,42.4,0,28,Outaouais,19.9
+AP0298,B,débutant,53.6,0,23,Québec,22.9
+AP0299,B,intermédiaire,54.5,0,23,Montréal,21.9
+AP0300,B,intermédiaire,61.3,1,45,Montréal,22.0
+AP0301,A,avancé,39.4,0,42,Outaouais,26.1
+AP0302,A,avancé,67.7,1,36,Québec,22.5
+AP0303,B,débutant,43.4,0,31,Québec,28.1
+AP0304,B,débutant,53.0,0,31,Montréal,19.6
+AP0305,A,intermédiaire,58.7,0,34,Montréal,23.1
+AP0306,A,avancé,71.4,1,22,Québec,27.4
+AP0307,B,avancé,100.0,1,44,Montréal,20.7
+AP0308,B,débutant,51.5,0,40,Montréal,16.4
+AP0309,A,avancé,80.8,1,28,Montréal,31.7
+AP0310,B,débutant,69.9,1,41,Québec,23.1
+AP0311,B,débutant,56.8,0,27,Hors Québec,18.8
+AP0312,B,débutant,51.8,0,25,Hors Québec,22.2
+AP0313,A,avancé,79.7,1,45,Outaouais,26.5
+AP0314,A,avancé,77.2,1,23,Québec,32.0
+AP0315,A,avancé,56.2,0,35,Outaouais,20.6
+AP0316,B,débutant,53.0,0,30,Outaouais,26.9
+AP0317,A,avancé,94.0,1,25,Québec,23.2
+AP0318,B,intermédiaire,63.0,1,21,Québec,17.4
+AP0319,B,débutant,53.1,0,44,Hors Québec,25.4
+AP0320,A,avancé,80.8,1,37,Montréal,29.3
+AP0321,A,avancé,94.2,1,22,Outaouais,25.7
+AP0322,B,débutant,74.3,1,44,Outaouais,21.3
+AP0323,B,intermédiaire,69.3,1,28,Montréal,27.2
+AP0324,A,intermédiaire,60.2,1,38,Hors Québec,16.5
+AP0325,A,avancé,60.7,1,22,Outaouais,25.4
+AP0326,A,avancé,58.4,0,29,Québec,28.2
+AP0327,B,débutant,49.9,0,27,Montréal,21.6
+AP0328,A,avancé,49.1,0,26,Hors Québec,22.7
+AP0329,A,avancé,77.4,1,31,Outaouais,17.5
+AP0330,B,débutant,52.1,0,32,Outaouais,25.3
+AP0331,A,intermédiaire,50.4,0,37,Montréal,12.2
+AP0332,B,débutant,55.9,0,37,Outaouais,21.7
+AP0333,B,intermédiaire,46.5,0,39,Hors Québec,25.0
+AP0334,B,intermédiaire,76.3,1,24,Outaouais,21.9
+AP0335,A,avancé,84.7,1,28,Hors Québec,23.8
+AP0336,B,débutant,56.0,0,40,Montréal,14.2
+AP0337,B,débutant,54.9,0,31,Hors Québec,26.8
+AP0338,B,débutant,63.2,1,33,Outaouais,18.4
+AP0339,B,intermédiaire,62.2,1,43,Montréal,7.8
+AP0340,B,intermédiaire,66.8,1,43,Hors Québec,2.3
+AP0341,B,débutant,54.2,0,25,Québec,12.2
+AP0342,A,avancé,84.6,1,22,Outaouais,14.8
+AP0343,B,débutant,33.3,0,19,Outaouais,25.2
+AP0344,A,avancé,69.7,1,34,Montréal,26.7
+AP0345,B,débutant,69.9,1,19,Hors Québec,31.5
+AP0346,B,intermédiaire,73.8,1,27,Hors Québec,23.8
+AP0347,B,débutant,32.4,0,38,Outaouais,19.7
+AP0348,B,débutant,57.4,0,41,Québec,28.9
+AP0349,B,débutant,57.1,0,41,Hors Québec,23.3
+AP0350,A,avancé,75.3,1,40,Outaouais,30.4
+AP0351,A,avancé,80.6,1,27,Hors Québec,25.8
+AP0352,A,intermédiaire,53.2,0,31,Québec,27.2
+AP0353,A,avancé,74.2,1,19,Québec,25.8
+AP0354,A,avancé,49.2,0,45,Hors Québec,19.9
+AP0355,B,intermédiaire,60.1,1,23,Québec,32.8
+AP0356,B,débutant,56.3,0,28,Hors Québec,14.9
+AP0357,B,débutant,40.0,0,35,Montréal,27.0
+AP0358,B,débutant,69.0,1,30,Montréal,27.9
+AP0359,B,débutant,65.6,1,44,Hors Québec,21.8
+AP0360,B,débutant,52.7,0,19,Hors Québec,27.5
+AP0361,B,intermédiaire,42.3,0,23,Montréal,14.2
+AP0362,A,avancé,82.8,1,37,Hors Québec,34.6
+AP0363,A,avancé,64.7,1,21,Hors Québec,26.6
+AP0364,B,débutant,68.3,1,40,Outaouais,24.1
+AP0365,B,intermédiaire,74.0,1,29,Québec,23.6
+AP0366,A,intermédiaire,61.5,1,42,Hors Québec,11.0
+AP0367,B,débutant,34.5,0,22,Québec,27.8
+AP0368,B,débutant,45.9,0,25,Outaouais,23.4
+AP0369,A,avancé,77.8,1,37,Hors Québec,30.0
+AP0370,B,débutant,33.0,0,23,Outaouais,24.4
+AP0371,B,intermédiaire,53.0,0,39,Outaouais,21.5
+AP0372,B,débutant,63.5,1,45,Montréal,28.2
+AP0373,B,débutant,61.4,1,43,Hors Québec,23.7
+AP0374,B,débutant,44.3,0,20,Hors Québec,26.9
+AP0375,A,intermédiaire,58.7,0,30,Hors Québec,12.5
+AP0376,B,débutant,66.2,1,38,Outaouais,26.3
+AP0377,A,avancé,55.7,0,37,Hors Québec,29.7
+AP0378,A,intermédiaire,75.8,1,44,Québec,24.0
+AP0379,A,avancé,74.7,1,31,Outaouais,19.2
+AP0380,B,débutant,60.3,1,36,Hors Québec,21.4
+AP0381,B,avancé,63.0,1,37,Outaouais,16.3
+AP0382,A,avancé,66.6,1,37,Québec,19.3
+AP0383,A,avancé,70.9,1,26,Outaouais,19.3
+AP0384,B,débutant,73.0,1,31,Hors Québec,22.6
+AP0385,A,débutant,52.7,0,38,Outaouais,28.7
+AP0386,B,avancé,100.0,1,21,Hors Québec,22.5
+AP0387,A,avancé,73.1,1,44,Outaouais,18.1
+AP0388,B,débutant,62.4,1,26,Outaouais,14.1
+AP0389,B,débutant,49.5,0,30,Québec,12.9
+AP0390,B,intermédiaire,51.9,0,41,Outaouais,14.6
+AP0391,B,intermédiaire,57.6,0,34,Québec,31.8
+AP0392,B,débutant,59.0,0,20,Outaouais,20.8
+AP0393,B,intermédiaire,77.2,1,21,Québec,20.6
+AP0394,B,débutant,68.4,1,41,Montréal,18.6
+AP0395,B,débutant,49.0,0,43,Hors Québec,20.4
+AP0396,B,débutant,54.5,0,35,Hors Québec,16.8
+AP0397,A,avancé,72.4,1,27,Outaouais,16.9
+AP0398,B,débutant,50.2,0,39,Québec,28.5
+AP0399,A,avancé,68.6,1,24,Montréal,26.2
+AP0400,B,débutant,42.1,0,32,Hors Québec,24.4
+AP0401,A,avancé,73.2,1,22,Outaouais,17.5
+AP0402,A,avancé,54.5,0,36,Montréal,28.7
+AP0403,B,débutant,66.7,1,19,Hors Québec,25.2
+AP0404,B,débutant,62.2,1,24,Outaouais,22.1
+AP0405,A,avancé,63.4,1,19,Outaouais,20.6
+AP0406,B,intermédiaire,69.6,1,33,Outaouais,22.1
+AP0407,B,débutant,57.2,0,27,Québec,24.5
+AP0408,B,débutant,54.5,0,23,Hors Québec,40.9
+AP0409,A,avancé,81.3,1,33,Montréal,32.1
+AP0410,A,avancé,74.8,1,43,Montréal,21.4
+AP0411,B,intermédiaire,78.2,1,28,Outaouais,24.3
+AP0412,B,débutant,58.6,0,37,Hors Québec,26.5
+AP0413,A,avancé,74.9,1,30,Hors Québec,26.4
+AP0414,A,avancé,66.6,1,31,Outaouais,30.0
+AP0415,A,avancé,70.0,1,19,Outaouais,21.0
+AP0416,A,débutant,66.1,1,43,Montréal,20.9
+AP0417,B,débutant,67.7,1,40,Montréal,27.0
+AP0418,A,avancé,48.6,0,32,Outaouais,22.2
+AP0419,B,débutant,55.8,0,45,Outaouais,23.8
+AP0420,B,débutant,66.3,1,21,Montréal,6.3
+AP0421,A,avancé,76.1,1,41,Outaouais,15.0
+AP0422,A,avancé,67.3,1,34,Québec,26.4
+AP0423,A,intermédiaire,56.5,0,22,Outaouais,20.1
+AP0424,A,débutant,78.6,1,21,Montréal,20.4
+AP0425,B,débutant,56.0,0,23,Hors Québec,31.4
+AP0426,A,avancé,82.0,1,22,Montréal,17.3
+AP0427,B,intermédiaire,46.3,0,35,Montréal,31.2
+AP0428,B,avancé,77.4,1,44,Montréal,17.8
+AP0429,B,avancé,87.6,1,33,Outaouais,15.7
+AP0430,B,débutant,65.3,1,44,Hors Québec,23.1
+AP0431,B,débutant,52.5,0,29,Montréal,19.4
+AP0432,B,débutant,62.5,1,23,Québec,23.1
+AP0433,A,avancé,65.3,1,22,Hors Québec,28.5
+AP0434,A,avancé,89.8,1,40,Outaouais,27.1
+AP0435,B,intermédiaire,73.0,1,36,Québec,25.9
+AP0436,B,débutant,50.7,0,31,Québec,36.2
+AP0437,B,débutant,60.3,1,33,Québec,19.6
+AP0438,A,avancé,67.3,1,38,Outaouais,18.9
+AP0439,A,avancé,76.6,1,32,Hors Québec,22.3
+AP0440,A,avancé,78.6,1,31,Outaouais,15.5
+AP0441,B,débutant,45.1,0,23,Québec,19.2
+AP0442,A,intermédiaire,61.3,1,44,Hors Québec,17.9
+AP0443,B,débutant,52.4,0,43,Québec,21.6
+AP0444,A,débutant,56.4,0,24,Hors Québec,18.5
+AP0445,A,intermédiaire,50.5,0,26,Québec,26.8
+AP0446,A,avancé,80.0,1,28,Montréal,21.9
+AP0447,B,débutant,68.9,1,30,Hors Québec,22.8
+AP0448,A,avancé,76.1,1,43,Montréal,20.7
+AP0449,B,débutant,35.7,0,27,Hors Québec,17.0
+AP0450,B,intermédiaire,72.1,1,36,Outaouais,24.5
+AP0451,A,avancé,81.4,1,27,Hors Québec,18.0
+AP0452,B,débutant,45.3,0,41,Montréal,18.1
+AP0453,B,débutant,43.6,0,20,Hors Québec,25.8
+AP0454,A,avancé,79.1,1,33,Hors Québec,18.3
+AP0455,B,débutant,61.0,1,19,Québec,16.3
+AP0456,B,débutant,55.8,0,20,Québec,31.3
+AP0457,A,avancé,74.6,1,45,Montréal,29.3
+AP0458,B,débutant,77.9,1,22,Québec,20.7
+AP0459,B,débutant,74.7,1,35,Montréal,22.6
+AP0460,B,intermédiaire,72.3,1,26,Québec,31.0
+AP0461,B,intermédiaire,64.7,1,35,Hors Québec,19.3
+AP0462,B,débutant,56.1,0,20,Outaouais,23.7
+AP0463,A,avancé,83.0,1,26,Hors Québec,25.7
+AP0464,A,avancé,79.5,1,42,Outaouais,18.7
+AP0465,A,avancé,84.8,1,36,Montréal,14.1
+AP0466,B,débutant,77.4,1,22,Montréal,17.0
+AP0467,A,avancé,56.7,0,36,Hors Québec,33.9
+AP0468,A,avancé,63.4,1,26,Hors Québec,26.5
+AP0469,B,débutant,57.7,0,43,Hors Québec,21.1
+AP0470,B,débutant,53.2,0,40,Hors Québec,34.6
+AP0471,A,avancé,85.1,1,23,Québec,23.1
+AP0472,B,débutant,48.7,0,31,Montréal,23.3
+AP0473,B,débutant,54.4,0,37,Montréal,19.2
+AP0474,B,débutant,66.0,1,28,Montréal,21.7
+AP0475,A,avancé,69.2,1,23,Montréal,13.7
+AP0476,A,avancé,77.6,1,28,Hors Québec,11.9
+AP0477,A,avancé,66.7,1,37,Outaouais,26.6
+AP0478,B,débutant,57.4,0,19,Montréal,4.6
+AP0479,A,avancé,91.4,1,43,Québec,33.0
+AP0480,A,avancé,71.1,1,41,Montréal,27.2
+AP0481,A,avancé,81.0,1,31,Québec,27.0
+AP0482,A,intermédiaire,54.2,0,34,Hors Québec,24.1
+AP0483,B,intermédiaire,68.3,1,21,Hors Québec,24.0
+AP0484,A,avancé,87.2,1,20,Québec,37.0
+AP0485,A,avancé,68.3,1,44,Québec,12.7
+AP0486,A,avancé,52.8,0,20,Montréal,36.7
+AP0487,B,intermédiaire,52.5,0,33,Outaouais,24.4
+AP0488,B,débutant,67.8,1,36,Québec,26.2
+AP0489,B,débutant,63.3,1,45,Québec,30.4
+AP0490,B,intermédiaire,50.5,0,24,Outaouais,22.6
+AP0491,B,débutant,49.9,0,44,Hors Québec,19.9
+AP0492,B,débutant,43.2,0,37,Outaouais,17.4
+AP0493,A,débutant,52.1,0,24,Hors Québec,20.4
+AP0494,B,débutant,81.5,1,23,Outaouais,11.1
+AP0495,A,avancé,64.2,1,43,Hors Québec,22.4
+AP0496,B,débutant,47.1,0,34,Hors Québec,23.0
+AP0497,A,avancé,54.3,0,41,Outaouais,7.9
+AP0498,B,intermédiaire,53.2,0,42,Outaouais,11.2
+AP0499,A,avancé,49.7,0,40,Hors Québec,18.3
+AP0500,B,débutant,55.6,0,20,Québec,26.5
+AP0501,A,avancé,94.9,1,29,Outaouais,16.9
+AP0502,B,débutant,60.8,1,29,Outaouais,28.0
+AP0503,A,avancé,70.0,1,27,Montréal,18.9
+AP0504,B,débutant,66.5,1,40,Hors Québec,26.4
+AP0505,A,avancé,68.3,1,39,Outaouais,27.5
+AP0506,A,avancé,56.2,0,20,Montréal,29.3
+AP0507,B,débutant,43.9,0,23,Outaouais,23.6
+AP0508,B,débutant,52.7,0,30,Outaouais,22.5
+AP0509,B,avancé,90.7,1,24,Montréal,32.7
+AP0510,B,débutant,52.3,0,42,Outaouais,23.9
+AP0511,B,débutant,58.3,0,40,Outaouais,32.5
+AP0512,A,avancé,100.0,1,41,Outaouais,19.2
+AP0513,A,avancé,65.2,1,21,Outaouais,32.7
+AP0514,A,intermédiaire,75.7,1,36,Hors Québec,19.0
+AP0515,B,débutant,53.7,0,36,Outaouais,20.9
+AP0516,B,intermédiaire,83.2,1,45,Hors Québec,24.8
+AP0517,B,débutant,43.6,0,31,Québec,27.2
+AP0518,B,débutant,63.5,1,25,Montréal,13.2
+AP0519,A,avancé,80.2,1,31,Montréal,30.1
+AP0520,B,débutant,35.5,0,24,Outaouais,23.1
+AP0521,A,avancé,83.0,1,35,Outaouais,30.6
+AP0522,B,débutant,53.9,0,26,Hors Québec,23.4
+AP0523,B,débutant,50.1,0,20,Hors Québec,15.9
+AP0524,A,avancé,64.4,1,39,Outaouais,15.3
+AP0525,A,avancé,54.7,0,33,Montréal,34.6
+AP0526,A,avancé,75.5,1,43,Québec,11.0
+AP0527,B,débutant,54.2,0,19,Québec,28.0
+AP0528,B,débutant,49.6,0,26,Québec,25.1
+AP0529,A,avancé,84.5,1,42,Hors Québec,27.9
+AP0530,A,avancé,70.7,1,38,Montréal,21.0
+AP0531,A,intermédiaire,41.3,0,36,Québec,15.9
+AP0532,B,débutant,28.7,0,33,Québec,23.9
+AP0533,A,avancé,74.9,1,34,Hors Québec,29.9
+AP0534,B,débutant,71.8,1,33,Montréal,28.3
+AP0535,B,débutant,77.7,1,33,Québec,26.9
+AP0536,B,débutant,58.3,0,31,Québec,21.7
+AP0537,B,débutant,58.3,0,25,Hors Québec,16.1
+AP0538,A,avancé,70.5,1,40,Outaouais,14.0
+AP0539,A,avancé,82.3,1,25,Montréal,11.9
+AP0540,B,débutant,70.0,1,30,Québec,18.7
+AP0541,B,débutant,37.2,0,32,Outaouais,32.0
+AP0542,A,débutant,56.2,0,44,Montréal,24.2
+AP0543,A,avancé,75.5,1,24,Québec,20.5
+AP0544,A,avancé,53.9,0,33,Québec,22.1
+AP0545,B,débutant,73.8,1,21,Montréal,31.2
+AP0546,A,avancé,54.1,0,22,Hors Québec,28.8
+AP0547,A,avancé,79.2,1,45,Hors Québec,28.5
+AP0548,A,avancé,89.2,1,28,Hors Québec,26.3
+AP0549,A,avancé,71.1,1,37,Québec,22.7
+AP0550,A,avancé,74.5,1,30,Québec,27.2
+AP0551,A,avancé,87.0,1,37,Montréal,21.7
+AP0552,B,débutant,58.6,0,34,Outaouais,29.6
+AP0553,A,débutant,30.9,0,40,Outaouais,14.4
+AP0554,A,avancé,79.7,1,45,Québec,14.3
+AP0555,B,débutant,75.5,1,19,Québec,17.8
+AP0556,B,débutant,72.3,1,27,Outaouais,19.0
+AP0557,A,avancé,60.8,1,28,Québec,13.9
+AP0558,B,intermédiaire,59.2,0,35,Québec,6.2
+AP0559,A,avancé,78.8,1,34,Québec,17.9
+AP0560,B,débutant,46.8,0,19,Québec,32.9
+AP0561,B,débutant,42.9,0,34,Québec,27.4
+AP0562,B,débutant,39.0,0,32,Québec,16.8
+AP0563,A,avancé,78.3,1,25,Hors Québec,33.8
+AP0564,A,avancé,70.7,1,26,Montréal,17.7
+AP0565,A,avancé,100.0,1,38,Montréal,23.4
+AP0566,A,intermédiaire,58.8,0,34,Montréal,23.2
+AP0567,B,débutant,48.6,0,24,Hors Québec,11.9
+AP0568,A,avancé,65.1,1,27,Montréal,30.7
+AP0569,A,avancé,51.1,0,43,Hors Québec,19.0
+AP0570,A,avancé,48.8,0,33,Québec,27.9
+AP0571,B,débutant,68.9,1,19,Outaouais,15.8
+AP0572,A,avancé,81.1,1,39,Outaouais,22.8
+AP0573,B,débutant,51.5,0,43,Hors Québec,20.6
+AP0574,A,avancé,72.2,1,35,Montréal,20.5
+AP0575,A,avancé,73.5,1,27,Outaouais,21.1
+AP0576,B,intermédiaire,55.2,0,20,Québec,25.4
+AP0577,B,débutant,44.9,0,23,Montréal,27.9
+AP0578,B,intermédiaire,49.2,0,40,Outaouais,18.8
+AP0579,A,débutant,61.3,1,26,Hors Québec,17.0
+AP0580,B,débutant,47.9,0,22,Hors Québec,26.7
+AP0581,A,débutant,62.1,1,38,Montréal,17.1
+AP0582,A,avancé,68.5,1,19,Montréal,21.4
+AP0583,A,intermédiaire,61.9,1,20,Outaouais,14.8
+AP0584,B,débutant,57.2,0,19,Hors Québec,23.0
+AP0585,A,avancé,87.2,1,30,Hors Québec,21.0
+AP0586,B,débutant,73.6,1,38,Outaouais,26.8
+AP0587,A,avancé,66.9,1,40,Outaouais,21.6
+AP0588,B,débutant,48.0,0,32,Hors Québec,18.0
+AP0589,B,débutant,43.6,0,26,Hors Québec,26.6
+AP0590,B,débutant,68.1,1,24,Montréal,20.4
+AP0591,A,avancé,62.9,1,44,Québec,22.0
+AP0592,A,avancé,75.6,1,25,Québec,27.8
+AP0593,A,avancé,81.4,1,35,Outaouais,23.9
+AP0594,A,avancé,69.3,1,41,Montréal,24.7
+AP0595,A,intermédiaire,73.8,1,42,Outaouais,17.7
+AP0596,A,avancé,58.0,0,26,Hors Québec,21.7
+AP0597,B,débutant,59.6,0,40,Outaouais,25.4
+AP0598,A,avancé,74.9,1,45,Montréal,13.6
+AP0599,B,débutant,58.9,0,38,Montréal,19.1
+AP0600,B,débutant,68.9,1,28,Québec,28.4
+AP0601,B,débutant,63.2,1,22,Québec,24.4
+AP0602,A,avancé,79.2,1,29,Hors Québec,16.7
+AP0603,B,débutant,54.3,0,28,Montréal,18.8
+AP0604,A,avancé,75.3,1,39,Montréal,11.1
+AP0605,A,avancé,72.2,1,31,Montréal,27.4
+AP0606,B,intermédiaire,73.3,1,36,Outaouais,15.7
+AP0607,B,débutant,58.0,0,33,Hors Québec,22.2
+AP0608,A,avancé,62.0,1,36,Montréal,26.6
+AP0609,B,débutant,22.9,0,36,Québec,23.8
+AP0610,A,avancé,67.0,1,27,Québec,23.2
+AP0611,B,débutant,82.9,1,36,Outaouais,10.5
+AP0612,B,intermédiaire,68.2,1,24,Hors Québec,30.2
+AP0613,B,avancé,73.8,1,39,Québec,20.9
+AP0614,A,intermédiaire,39.2,0,26,Montréal,21.4
+AP0615,B,débutant,48.1,0,35,Montréal,22.6
+AP0616,A,avancé,53.8,0,29,Outaouais,24.5
+AP0617,B,débutant,55.3,0,42,Québec,13.5
+AP0618,A,avancé,62.2,1,42,Hors Québec,21.5
+AP0619,A,avancé,75.3,1,19,Hors Québec,21.9
+AP0620,A,intermédiaire,52.9,0,33,Montréal,26.6
+AP0621,A,avancé,53.8,0,38,Hors Québec,22.6
+AP0622,A,intermédiaire,57.7,0,36,Hors Québec,27.4
+AP0623,A,avancé,75.7,1,24,Montréal,16.9
+AP0624,B,débutant,55.6,0,30,Outaouais,32.0
+AP0625,A,débutant,52.7,0,33,Montréal,30.1
+AP0626,B,avancé,69.5,1,25,Hors Québec,25.3
+AP0627,A,avancé,79.3,1,41,Montréal,28.7
+AP0628,B,débutant,49.9,0,30,Outaouais,26.2
+AP0629,B,débutant,62.9,1,37,Outaouais,20.3
+AP0630,A,avancé,45.9,0,40,Hors Québec,27.5
+AP0631,A,avancé,67.8,1,37,Hors Québec,21.8
+AP0632,A,avancé,68.5,1,28,Hors Québec,13.3
+AP0633,A,avancé,65.6,1,28,Montréal,13.1
+AP0634,A,intermédiaire,50.7,0,34,Outaouais,11.0
+AP0635,B,débutant,53.3,0,39,Hors Québec,29.0
+AP0636,B,débutant,44.3,0,40,Outaouais,26.5
+AP0637,A,avancé,71.2,1,23,Hors Québec,22.7
+AP0638,B,avancé,69.5,1,22,Outaouais,13.6
+AP0639,A,avancé,68.1,1,28,Montréal,29.8
+AP0640,A,avancé,80.1,1,32,Montréal,18.8
+AP0641,B,débutant,56.7,0,19,Montréal,23.2
+AP0642,B,intermédiaire,64.1,1,43,Québec,20.3
+AP0643,A,avancé,61.9,1,42,Outaouais,22.5
+AP0644,B,avancé,84.9,1,30,Montréal,22.2
+AP0645,B,débutant,43.3,0,36,Québec,16.1
+AP0646,A,avancé,58.6,0,29,Montréal,18.3
+AP0647,A,intermédiaire,41.0,0,21,Montréal,22.6
+AP0648,A,avancé,63.1,1,44,Québec,18.0
+AP0649,A,avancé,87.7,1,41,Québec,18.3
+AP0650,A,avancé,80.7,1,25,Hors Québec,23.1
+AP0651,B,débutant,37.2,0,30,Québec,17.5
+AP0652,A,avancé,76.9,1,38,Montréal,26.1
+AP0653,A,avancé,78.8,1,20,Montréal,14.2
+AP0654,A,avancé,82.3,1,42,Hors Québec,17.7
+AP0655,A,avancé,76.0,1,21,Québec,26.1
+AP0656,A,avancé,72.7,1,25,Québec,18.1
+AP0657,A,intermédiaire,52.8,0,38,Outaouais,15.0
+AP0658,A,avancé,62.0,1,45,Québec,19.0
+AP0659,B,débutant,50.6,0,42,Québec,10.4
+AP0660,A,débutant,55.0,0,41,Montréal,22.8
+AP0661,B,débutant,56.7,0,33,Outaouais,24.2
+AP0662,B,débutant,69.6,1,45,Outaouais,20.9
+AP0663,A,avancé,76.1,1,28,Québec,20.0
+AP0664,A,intermédiaire,51.4,0,32,Montréal,23.7
+AP0665,A,avancé,81.8,1,23,Québec,20.0
+AP0666,B,intermédiaire,52.5,0,24,Montréal,18.5
+AP0667,B,débutant,70.0,1,32,Hors Québec,25.1
+AP0668,B,intermédiaire,60.7,1,35,Hors Québec,17.1
+AP0669,B,débutant,41.0,0,23,Québec,13.7
+AP0670,A,avancé,68.7,1,23,Québec,14.3
+AP0671,A,avancé,58.2,0,34,Montréal,9.9
+AP0672,B,débutant,33.6,0,19,Montréal,18.1
+AP0673,A,avancé,72.6,1,37,Outaouais,15.1
+AP0674,A,avancé,66.3,1,42,Québec,17.8
+AP0675,B,débutant,54.4,0,41,Québec,25.7
+AP0676,A,avancé,81.3,1,30,Montréal,16.0
+AP0677,A,avancé,61.2,1,42,Hors Québec,27.1
+AP0678,A,avancé,58.4,0,45,Québec,16.0
+AP0679,B,débutant,34.0,0,40,Hors Québec,38.1
+AP0680,B,débutant,48.6,0,34,Hors Québec,20.1
+AP0681,B,débutant,39.0,0,22,Hors Québec,23.7
+AP0682,A,avancé,85.0,1,26,Hors Québec,11.9
+AP0683,A,avancé,76.9,1,36,Outaouais,18.8
+AP0684,A,avancé,59.5,0,25,Montréal,16.8
+AP0685,B,intermédiaire,63.6,1,36,Hors Québec,23.7
+AP0686,B,débutant,34.1,0,21,Québec,13.0
+AP0687,B,débutant,54.4,0,19,Outaouais,19.9
+AP0688,B,débutant,54.0,0,27,Québec,22.8
+AP0689,B,débutant,68.9,1,31,Hors Québec,22.9
+AP0690,A,avancé,62.7,1,42,Québec,27.3
+AP0691,A,avancé,72.7,1,33,Montréal,18.2
+AP0692,B,débutant,43.5,0,30,Montréal,23.7
+AP0693,A,avancé,63.2,1,22,Outaouais,31.5
+AP0694,B,avancé,60.7,1,20,Hors Québec,17.2
+AP0695,A,avancé,76.0,1,43,Hors Québec,24.8
+AP0696,B,débutant,72.4,1,31,Outaouais,21.5
+AP0697,B,débutant,41.8,0,41,Montréal,24.4
+AP0698,B,débutant,48.4,0,24,Montréal,28.5
+AP0699,B,intermédiaire,79.1,1,36,Montréal,26.6
+AP0700,A,intermédiaire,57.4,0,38,Québec,26.2
+AP0701,B,débutant,37.4,0,22,Hors Québec,18.9
+AP0702,A,avancé,56.5,0,36,Québec,13.1
+AP0703,B,débutant,64.9,1,23,Montréal,15.9
+AP0704,B,débutant,73.6,1,45,Outaouais,17.3
+AP0705,B,débutant,60.7,1,27,Hors Québec,16.0
+AP0706,B,débutant,64.8,1,35,Hors Québec,20.1
+AP0707,A,avancé,75.7,1,41,Hors Québec,18.1
+AP0708,A,intermédiaire,70.8,1,37,Québec,13.9
+AP0709,A,avancé,73.8,1,29,Québec,15.3
+AP0710,B,débutant,56.3,0,43,Montréal,16.3
+AP0711,B,intermédiaire,65.0,1,21,Québec,18.4
+AP0712,A,avancé,83.7,1,21,Québec,20.1
+AP0713,A,avancé,93.7,1,41,Hors Québec,18.0
+AP0714,A,avancé,63.9,1,25,Outaouais,24.3
+AP0715,B,avancé,84.6,1,19,Outaouais,12.0
+AP0716,B,débutant,28.7,0,28,Montréal,17.7
+AP0717,B,débutant,52.3,0,25,Hors Québec,31.3
+AP0718,A,intermédiaire,66.8,1,33,Hors Québec,16.4
+AP0719,B,débutant,50.4,0,42,Outaouais,21.7
+AP0720,A,avancé,57.0,0,27,Montréal,28.1
+AP0721,A,débutant,48.9,0,23,Outaouais,25.6
+AP0722,A,avancé,66.6,1,30,Outaouais,21.2
+AP0723,A,avancé,66.1,1,25,Hors Québec,18.5
+AP0724,A,avancé,54.1,0,26,Outaouais,29.6
+AP0725,B,débutant,57.3,0,42,Montréal,17.0
+AP0726,B,débutant,66.3,1,20,Hors Québec,6.9
+AP0727,B,débutant,54.9,0,40,Hors Québec,11.6
+AP0728,B,débutant,51.6,0,39,Québec,20.7
+AP0729,A,intermédiaire,49.6,0,33,Montréal,28.2
+AP0730,B,avancé,84.1,1,37,Montréal,7.1
+AP0731,A,avancé,67.8,1,23,Hors Québec,28.9
+AP0732,B,débutant,48.1,0,29,Montréal,18.8
+AP0733,B,débutant,78.9,1,28,Montréal,28.4
+AP0734,B,débutant,45.2,0,32,Hors Québec,20.6
+AP0735,A,avancé,83.6,1,28,Hors Québec,18.2
+AP0736,A,avancé,71.4,1,39,Outaouais,18.4
+AP0737,A,intermédiaire,62.0,1,36,Hors Québec,17.5
+AP0738,B,débutant,64.6,1,30,Québec,28.7
+AP0739,B,débutant,49.0,0,33,Hors Québec,27.4
+AP0740,B,débutant,51.2,0,41,Outaouais,16.4
+AP0741,A,avancé,81.6,1,28,Hors Québec,29.0
+AP0742,B,débutant,69.7,1,44,Montréal,29.4
+AP0743,A,intermédiaire,55.5,0,43,Hors Québec,15.2
+AP0744,A,débutant,51.1,0,43,Hors Québec,17.4
+AP0745,B,débutant,64.6,1,29,Outaouais,27.7
+AP0746,A,avancé,56.0,0,35,Montréal,22.5
+AP0747,A,intermédiaire,76.8,1,20,Québec,25.9
+AP0748,B,débutant,66.8,1,24,Hors Québec,20.3
+AP0749,B,avancé,100.0,1,35,Montréal,23.1
+AP0750,A,avancé,45.0,0,24,Hors Québec,23.7
+AP0751,A,avancé,70.9,1,25,Hors Québec,16.5
+AP0752,B,débutant,52.1,0,25,Montréal,22.2
+AP0753,B,débutant,61.4,1,43,Outaouais,20.4
+AP0754,B,débutant,41.7,0,19,Québec,22.7
+AP0755,A,débutant,50.9,0,29,Montréal,17.7
+AP0756,A,avancé,70.2,1,22,Hors Québec,19.2
+AP0757,A,avancé,82.0,1,39,Montréal,23.2
+AP0758,B,débutant,67.7,1,28,Hors Québec,21.6
+AP0759,A,avancé,61.1,1,31,Outaouais,27.5
+AP0760,B,débutant,83.1,1,41,Québec,18.4
+AP0761,B,débutant,46.0,0,20,Montréal,31.9
+AP0762,B,débutant,47.0,0,28,Outaouais,22.6
+AP0763,A,avancé,70.6,1,38,Québec,21.8
+AP0764,B,débutant,56.6,0,22,Montréal,20.5
+AP0765,A,avancé,69.8,1,26,Outaouais,34.7
+AP0766,A,intermédiaire,40.3,0,40,Hors Québec,8.6
+AP0767,A,avancé,47.7,0,25,Outaouais,22.1
+AP0768,B,débutant,52.0,0,42,Hors Québec,16.8
+AP0769,B,intermédiaire,69.6,1,45,Montréal,24.7
+AP0770,A,avancé,50.8,0,38,Outaouais,16.6
+AP0771,B,débutant,60.3,1,19,Québec,21.3
+AP0772,A,avancé,79.8,1,25,Hors Québec,25.8
+AP0773,A,avancé,57.5,0,25,Québec,14.3
+AP0774,A,avancé,73.0,1,27,Québec,23.5
+AP0775,B,débutant,52.3,0,20,Québec,34.4
+AP0776,A,avancé,57.2,0,34,Hors Québec,25.1
+AP0777,A,avancé,90.2,1,19,Québec,26.4
+AP0778,B,débutant,49.1,0,29,Montréal,18.9
+AP0779,A,avancé,70.0,1,23,Outaouais,20.5
+AP0780,A,avancé,59.1,0,41,Hors Québec,24.0
+AP0781,A,avancé,64.3,1,24,Hors Québec,25.1
+AP0782,A,avancé,64.3,1,25,Hors Québec,11.3
+AP0783,B,débutant,60.6,1,32,Montréal,24.3
+AP0784,A,avancé,68.4,1,32,Montréal,17.6
+AP0785,A,avancé,76.2,1,28,Outaouais,26.0
+AP0786,A,intermédiaire,51.7,0,43,Hors Québec,32.6
+AP0787,B,intermédiaire,70.9,1,20,Montréal,13.8
+AP0788,B,débutant,70.6,1,39,Hors Québec,26.5
+AP0789,A,avancé,60.4,1,39,Montréal,26.5
+AP0790,B,intermédiaire,64.8,1,29,Montréal,30.9
+AP0791,B,débutant,59.3,0,22,Montréal,17.0
+AP0792,B,débutant,57.9,0,38,Hors Québec,29.4
+AP0793,B,débutant,53.5,0,40,Outaouais,24.0
+AP0794,A,intermédiaire,53.1,0,25,Hors Québec,22.2
+AP0795,A,avancé,66.5,1,44,Hors Québec,34.4
+AP0796,A,avancé,70.0,1,21,Hors Québec,20.1
+AP0797,A,avancé,60.6,1,31,Québec,17.9
+AP0798,A,débutant,44.8,0,42,Hors Québec,23.1
+AP0799,B,débutant,79.5,1,27,Québec,17.3
+AP0800,A,débutant,49.8,0,24,Québec,29.6
+AP0801,B,débutant,34.4,0,44,Montréal,23.9
+AP0802,B,avancé,58.1,0,29,Montréal,17.7
+AP0803,A,avancé,65.9,1,30,Hors Québec,30.0
+AP0804,B,débutant,41.4,0,33,Québec,19.6
+AP0805,A,avancé,66.7,1,21,Montréal,14.5
+AP0806,B,avancé,63.5,1,29,Hors Québec,23.0
+AP0807,B,débutant,78.9,1,26,Québec,22.5
+AP0808,B,intermédiaire,54.2,0,45,Hors Québec,18.4
+AP0809,B,débutant,70.8,1,21,Québec,22.8
+AP0810,B,débutant,71.5,1,22,Hors Québec,25.4
+AP0811,B,débutant,60.7,1,37,Montréal,20.5
+AP0812,B,débutant,68.8,1,42,Outaouais,14.8
+AP0813,B,débutant,65.2,1,28,Montréal,28.5
+AP0814,B,débutant,78.6,1,37,Montréal,22.5
+AP0815,A,avancé,66.7,1,41,Outaouais,22.8
+AP0816,B,débutant,52.3,0,19,Montréal,30.6
+AP0817,B,débutant,54.8,0,35,Montréal,16.3
+AP0818,B,débutant,49.6,0,22,Outaouais,19.1
+AP0819,B,débutant,52.4,0,26,Hors Québec,16.7
+AP0820,B,débutant,36.7,0,38,Hors Québec,15.1
+AP0821,A,avancé,60.5,1,40,Montréal,20.3
+AP0822,A,intermédiaire,36.4,0,43,Hors Québec,19.4
+AP0823,A,avancé,72.6,1,33,Québec,10.8
+AP0824,A,avancé,72.9,1,29,Hors Québec,19.9
+AP0825,B,intermédiaire,82.1,1,24,Hors Québec,16.5
+AP0826,A,avancé,55.4,0,44,Hors Québec,22.2
+AP0827,A,avancé,56.6,0,34,Montréal,29.1
+AP0828,B,débutant,71.9,1,42,Outaouais,17.9
+AP0829,A,avancé,60.1,1,35,Québec,13.8
+AP0830,A,avancé,73.5,1,34,Outaouais,18.1
+AP0831,A,avancé,44.5,0,30,Outaouais,15.2
+AP0832,A,avancé,71.8,1,25,Hors Québec,23.6
+AP0833,A,avancé,61.3,1,21,Hors Québec,28.8
+AP0834,B,débutant,48.3,0,20,Québec,8.8
+AP0835,A,avancé,69.8,1,31,Québec,23.4
+AP0836,A,avancé,71.0,1,45,Outaouais,12.1
+AP0837,B,débutant,48.7,0,24,Hors Québec,22.8
+AP0838,A,avancé,60.1,1,31,Hors Québec,19.0
+AP0839,A,avancé,65.1,1,43,Outaouais,17.7
+AP0840,B,débutant,71.9,1,20,Outaouais,14.7
+AP0841,A,avancé,61.1,1,27,Québec,24.1
+AP0842,B,débutant,54.2,0,32,Québec,24.9
+AP0843,B,débutant,55.1,0,25,Outaouais,17.6
+AP0844,A,intermédiaire,97.3,1,39,Montréal,30.4
+AP0845,A,débutant,43.0,0,30,Québec,21.0
+AP0846,A,avancé,81.1,1,21,Québec,17.5
+AP0847,B,débutant,73.9,1,21,Outaouais,24.5
+AP0848,B,débutant,59.6,0,25,Outaouais,22.4
+AP0849,A,intermédiaire,74.9,1,19,Hors Québec,30.0
+AP0850,A,intermédiaire,58.6,0,42,Montréal,10.1
+AP0851,A,avancé,92.2,1,34,Montréal,19.3
+AP0852,A,avancé,67.0,1,39,Outaouais,32.8
+AP0853,A,intermédiaire,67.7,1,39,Montréal,22.1
+AP0854,A,avancé,65.2,1,45,Montréal,29.9
+AP0855,B,débutant,55.2,0,44,Montréal,20.4
+AP0856,A,intermédiaire,72.7,1,38,Montréal,26.3
+AP0857,B,avancé,63.5,1,36,Québec,26.9
+AP0858,A,avancé,53.9,0,19,Outaouais,7.7
+AP0859,B,avancé,72.3,1,21,Hors Québec,12.0
+AP0860,A,avancé,78.0,1,32,Hors Québec,26.9
+AP0861,B,débutant,79.2,1,32,Outaouais,29.0
+AP0862,B,intermédiaire,41.4,0,30,Montréal,18.2
+AP0863,A,avancé,67.3,1,30,Montréal,18.8
+AP0864,A,avancé,68.8,1,33,Hors Québec,19.9
+AP0865,B,débutant,46.3,0,24,Hors Québec,25.3
+AP0866,B,avancé,72.4,1,39,Outaouais,11.6
+AP0867,B,débutant,51.3,0,39,Hors Québec,27.9
+AP0868,B,débutant,43.8,0,25,Québec,15.3
+AP0869,B,débutant,74.0,1,34,Québec,27.6
+AP0870,A,avancé,73.6,1,34,Québec,29.1
+AP0871,B,débutant,67.2,1,24,Hors Québec,15.9
+AP0872,A,avancé,67.0,1,33,Québec,26.7
+AP0873,A,avancé,65.4,1,28,Québec,10.7
+AP0874,A,avancé,73.7,1,31,Québec,28.4
+AP0875,A,avancé,61.1,1,28,Québec,23.5
+AP0876,A,avancé,60.0,1,39,Québec,20.8
+AP0877,A,avancé,80.2,1,40,Outaouais,21.3
+AP0878,A,avancé,64.7,1,41,Québec,20.2
+AP0879,A,débutant,54.9,0,33,Québec,29.4
+AP0880,B,débutant,59.4,0,26,Hors Québec,26.6
+AP0881,A,avancé,73.5,1,28,Hors Québec,17.4
+AP0882,B,débutant,49.5,0,45,Québec,12.6
+AP0883,A,intermédiaire,69.1,1,23,Montréal,19.3
+AP0884,A,avancé,72.1,1,32,Québec,25.6
+AP0885,A,intermédiaire,74.5,1,31,Hors Québec,18.5
+AP0886,A,intermédiaire,57.8,0,34,Outaouais,11.9
+AP0887,B,intermédiaire,60.1,1,41,Outaouais,22.7
+AP0888,A,avancé,73.8,1,36,Québec,17.4
+AP0889,B,débutant,57.8,0,29,Montréal,20.7
+AP0890,B,débutant,77.3,1,24,Hors Québec,28.5
+AP0891,B,débutant,53.1,0,38,Québec,23.2
+AP0892,A,avancé,76.7,1,40,Québec,14.5
+AP0893,A,débutant,27.8,0,39,Outaouais,9.8
+AP0894,A,avancé,66.4,1,33,Québec,14.5
+AP0895,A,avancé,48.1,0,33,Outaouais,13.9
+AP0896,B,débutant,52.5,0,43,Hors Québec,27.8
+AP0897,A,avancé,80.4,1,36,Outaouais,10.7
+AP0898,A,avancé,83.4,1,37,Outaouais,16.9
+AP0899,B,débutant,60.2,1,20,Outaouais,22.2
+AP0900,A,avancé,93.2,1,19,Québec,28.6
+AP0901,B,débutant,35.4,0,36,Québec,23.0
+AP0902,B,débutant,69.2,1,24,Montréal,15.0
+AP0903,B,intermédiaire,72.1,1,19,Outaouais,17.1
+AP0904,B,débutant,48.4,0,35,Québec,11.5
+AP0905,B,débutant,61.9,1,28,Outaouais,25.0
+AP0906,B,débutant,65.3,1,38,Québec,10.1
+AP0907,A,avancé,53.8,0,19,Montréal,16.3
+AP0908,B,débutant,78.9,1,45,Québec,25.1
+AP0909,B,intermédiaire,65.3,1,34,Outaouais,24.7
+AP0910,B,intermédiaire,65.7,1,42,Hors Québec,17.2
+AP0911,B,débutant,47.2,0,25,Outaouais,23.0
+AP0912,B,débutant,49.7,0,36,Outaouais,22.6
+AP0913,A,avancé,65.4,1,28,Outaouais,28.2
+AP0914,B,débutant,80.0,1,40,Hors Québec,19.6
+AP0915,B,débutant,76.8,1,29,Québec,19.9
+AP0916,B,débutant,42.0,0,30,Québec,13.5
+AP0917,A,débutant,51.1,0,35,Outaouais,26.3
+AP0918,A,avancé,49.4,0,24,Hors Québec,24.6
+AP0919,A,avancé,68.7,1,40,Québec,23.6
+AP0920,A,avancé,72.1,1,38,Québec,25.1
+AP0921,A,avancé,68.8,1,31,Hors Québec,12.6
+AP0922,B,débutant,64.6,1,23,Montréal,27.9
+AP0923,B,intermédiaire,74.7,1,44,Québec,19.2
+AP0924,A,intermédiaire,46.3,0,21,Québec,23.1
+AP0925,A,avancé,53.1,0,43,Québec,36.6
+AP0926,B,avancé,66.5,1,31,Hors Québec,27.9
+AP0927,B,débutant,48.6,0,21,Outaouais,31.5
+AP0928,B,débutant,57.5,0,19,Montréal,25.7
+AP0929,B,débutant,58.8,0,45,Montréal,18.0
+AP0930,A,avancé,49.2,0,31,Hors Québec,23.2
+AP0931,B,débutant,48.8,0,44,Hors Québec,24.7
+AP0932,A,avancé,71.0,1,33,Montréal,20.9
+AP0933,A,avancé,77.3,1,42,Outaouais,23.8
+AP0934,A,intermédiaire,54.2,0,35,Québec,27.4
+AP0935,A,intermédiaire,48.9,0,29,Outaouais,10.6
+AP0936,B,avancé,83.9,1,38,Hors Québec,20.4
+AP0937,A,avancé,58.8,0,22,Hors Québec,23.3
+AP0938,A,avancé,70.5,1,36,Montréal,21.3
+AP0939,B,débutant,63.6,1,40,Outaouais,25.1
+AP0940,B,intermédiaire,62.3,1,20,Outaouais,9.9
+AP0941,B,intermédiaire,86.6,1,44,Québec,23.6
+AP0942,B,débutant,74.5,1,44,Hors Québec,23.7
+AP0943,A,intermédiaire,56.8,0,31,Québec,22.6
+AP0944,B,intermédiaire,76.0,1,27,Montréal,23.3
+AP0945,B,débutant,47.6,0,24,Montréal,11.2
+AP0946,B,débutant,70.9,1,22,Outaouais,19.9
+AP0947,A,débutant,46.6,0,28,Outaouais,20.2
+AP0948,B,intermédiaire,79.5,1,28,Québec,20.4
+AP0949,B,débutant,46.4,0,37,Outaouais,22.3
+AP0950,B,débutant,49.4,0,45,Outaouais,18.5
+AP0951,B,intermédiaire,78.3,1,38,Hors Québec,16.2
+AP0952,B,débutant,66.5,1,37,Montréal,2.0
+AP0953,A,débutant,62.3,1,27,Hors Québec,21.3
+AP0954,B,débutant,48.1,0,26,Hors Québec,14.6
+AP0955,A,débutant,56.5,0,36,Montréal,27.7
+AP0956,B,débutant,86.3,1,35,Québec,28.1
+AP0957,B,débutant,65.7,1,42,Montréal,7.2
+AP0958,B,débutant,40.7,0,33,Québec,31.8
+AP0959,A,avancé,55.7,0,25,Hors Québec,33.5
+AP0960,A,avancé,71.6,1,23,Québec,30.7
+AP0961,B,débutant,64.1,1,31,Hors Québec,23.6
+AP0962,A,avancé,59.1,0,45,Hors Québec,17.1
+AP0963,A,intermédiaire,54.8,0,41,Montréal,24.2
+AP0964,B,intermédiaire,54.1,0,29,Montréal,23.6
+AP0965,A,avancé,77.5,1,45,Outaouais,26.2
+AP0966,B,débutant,53.9,0,43,Québec,27.1
+AP0967,B,intermédiaire,76.0,1,21,Outaouais,23.1
+AP0968,B,débutant,48.9,0,27,Montréal,29.9
+AP0969,B,débutant,49.8,0,26,Outaouais,26.3
+AP0970,A,avancé,65.8,1,38,Hors Québec,30.2
+AP0971,B,débutant,69.6,1,35,Hors Québec,22.3
+AP0972,A,avancé,75.6,1,37,Montréal,26.1
+AP0973,A,avancé,63.1,1,21,Hors Québec,22.5
+AP0974,B,débutant,48.4,0,34,Québec,11.9
+AP0975,A,avancé,60.7,1,35,Hors Québec,30.7
+AP0976,B,débutant,61.8,1,21,Québec,23.4
+AP0977,A,avancé,94.4,1,24,Montréal,13.2
+AP0978,A,avancé,81.6,1,27,Québec,27.9
+AP0979,A,avancé,94.8,1,39,Outaouais,26.7
+AP0980,A,intermédiaire,61.8,1,27,Montréal,12.9
+AP0981,B,avancé,69.6,1,20,Québec,21.5
+AP0982,A,avancé,76.5,1,44,Montréal,24.6
+AP0983,A,avancé,73.1,1,30,Montréal,23.4
+AP0984,A,avancé,84.8,1,30,Québec,14.1
+AP0985,B,débutant,70.2,1,23,Québec,17.2
+AP0986,A,avancé,63.3,1,36,Hors Québec,12.5
+AP0987,A,avancé,70.1,1,41,Hors Québec,13.6
+AP0988,B,débutant,54.6,0,22,Hors Québec,24.6
+AP0989,B,débutant,62.7,1,35,Québec,27.4
+AP0990,A,avancé,83.1,1,23,Québec,17.8
+AP0991,A,avancé,74.4,1,23,Outaouais,24.0
+AP0992,B,intermédiaire,55.4,0,36,Hors Québec,12.0
+AP0993,B,débutant,59.6,0,21,Hors Québec,15.4
+AP0994,B,intermédiaire,66.1,1,39,Montréal,25.0
+AP0995,B,débutant,71.3,1,24,Montréal,22.1
+AP0996,A,intermédiaire,78.3,1,44,Outaouais,26.0
+AP0997,B,débutant,50.0,0,36,Hors Québec,10.7
+AP0998,B,débutant,35.3,0,34,Hors Québec,26.9
+AP0999,A,avancé,63.0,1,43,Outaouais,17.7
+AP1000,A,avancé,94.4,1,24,Outaouais,19.2
+AP1001,A,débutant,58.3,0,29,Outaouais,14.5
+AP1002,A,débutant,51.6,0,37,Outaouais,27.8
+AP1003,B,débutant,34.2,0,22,Hors Québec,22.6
+AP1004,A,avancé,71.9,1,21,Québec,19.4
+AP1005,A,avancé,85.0,1,25,Montréal,23.1
+AP1006,B,débutant,48.5,0,21,Québec,22.4
+AP1007,A,avancé,64.6,1,30,Montréal,10.5
+AP1008,A,avancé,77.5,1,29,Québec,19.6
+AP1009,B,débutant,58.2,0,35,Québec,14.6
+AP1010,B,intermédiaire,51.0,0,26,Québec,22.7
+AP1011,B,débutant,61.8,1,33,Outaouais,20.0
+AP1012,B,débutant,57.4,0,43,Hors Québec,18.0
+AP1013,A,avancé,85.2,1,42,Québec,17.4
+AP1014,B,avancé,67.7,1,36,Outaouais,27.0
+AP1015,A,avancé,57.1,0,22,Outaouais,15.8
+AP1016,B,débutant,51.4,0,23,Outaouais,31.6
+AP1017,A,avancé,73.9,1,38,Montréal,26.8
+AP1018,B,intermédiaire,55.6,0,40,Hors Québec,16.2
+AP1019,A,intermédiaire,48.2,0,38,Québec,22.8
+AP1020,A,avancé,60.5,1,22,Outaouais,17.4
+AP1021,A,avancé,64.0,1,39,Hors Québec,10.4
+AP1022,B,débutant,69.3,1,45,Québec,30.5
+AP1023,B,débutant,67.9,1,24,Hors Québec,19.0
+AP1024,A,avancé,77.1,1,30,Hors Québec,11.0
+AP1025,A,débutant,50.1,0,26,Québec,25.6
+AP1026,A,avancé,83.7,1,20,Hors Québec,27.0
+AP1027,A,avancé,100.0,1,21,Québec,22.9
+AP1028,A,débutant,38.6,0,37,Québec,14.7
+AP1029,B,débutant,69.4,1,45,Québec,24.7
+AP1030,A,avancé,67.9,1,22,Outaouais,24.3
+AP1031,A,avancé,51.8,0,41,Hors Québec,25.0
+AP1032,A,avancé,70.6,1,26,Hors Québec,18.7
+AP1033,A,avancé,66.0,1,28,Québec,27.2
+AP1034,B,débutant,44.3,0,37,Montréal,23.7
+AP1035,A,avancé,60.9,1,44,Québec,20.4
+AP1036,B,débutant,63.6,1,35,Hors Québec,28.0
+AP1037,B,débutant,45.4,0,45,Québec,14.8
+AP1038,B,débutant,58.0,0,36,Hors Québec,25.0
+AP1039,A,débutant,49.8,0,31,Montréal,23.7
+AP1040,B,débutant,65.3,1,24,Hors Québec,19.0
+AP1041,B,débutant,62.5,1,36,Outaouais,14.4
+AP1042,B,débutant,74.2,1,36,Outaouais,34.0
+AP1043,A,avancé,73.2,1,28,Québec,25.4
+AP1044,A,avancé,81.0,1,30,Outaouais,18.6
+AP1045,A,avancé,86.6,1,27,Hors Québec,16.7
+AP1046,B,débutant,64.6,1,30,Québec,28.3
+AP1047,A,avancé,84.7,1,37,Québec,25.6
+AP1048,B,débutant,57.6,0,40,Québec,21.7
+AP1049,A,intermédiaire,47.5,0,28,Montréal,15.0
+AP1050,B,débutant,69.1,1,28,Hors Québec,19.1
+AP1051,B,débutant,37.1,0,20,Hors Québec,17.8
+AP1052,A,avancé,73.5,1,28,Outaouais,22.7
+AP1053,B,débutant,48.2,0,23,Outaouais,12.4
+AP1054,B,débutant,46.1,0,23,Québec,18.2
+AP1055,B,débutant,58.8,0,35,Outaouais,25.4
+AP1056,A,avancé,70.4,1,31,Hors Québec,14.1
+AP1057,B,débutant,62.8,1,19,Outaouais,12.3
+AP1058,B,intermédiaire,63.3,1,22,Hors Québec,19.0
+AP1059,A,avancé,42.1,0,20,Outaouais,20.5
+AP1060,A,avancé,98.5,1,29,Québec,24.1
+AP1061,A,avancé,74.6,1,36,Hors Québec,25.3
+AP1062,B,débutant,46.6,0,42,Québec,35.9
+AP1063,A,avancé,63.4,1,31,Québec,18.6
+AP1064,A,avancé,69.5,1,43,Québec,18.0
+AP1065,A,avancé,69.0,1,37,Montréal,18.8
+AP1066,B,débutant,68.4,1,45,Québec,28.4
+AP1067,A,avancé,85.0,1,28,Hors Québec,20.2
+AP1068,B,débutant,58.8,0,33,Outaouais,20.0
+AP1069,B,débutant,55.1,0,43,Outaouais,33.2
+AP1070,B,intermédiaire,59.5,0,34,Québec,14.5
+AP1071,B,avancé,82.7,1,26,Hors Québec,23.1
+AP1072,B,débutant,65.0,1,24,Québec,17.5
+AP1073,A,avancé,67.7,1,38,Outaouais,16.4
+AP1074,A,avancé,63.1,1,28,Hors Québec,28.5
+AP1075,B,débutant,55.2,0,41,Québec,18.6
+AP1076,B,intermédiaire,50.1,0,45,Outaouais,23.2
+AP1077,A,avancé,67.7,1,41,Montréal,20.6
+AP1078,A,avancé,87.9,1,38,Québec,24.4
+AP1079,A,avancé,57.7,0,24,Outaouais,12.2
+AP1080,A,intermédiaire,67.7,1,42,Québec,11.7
+AP1081,B,avancé,93.3,1,30,Québec,25.2
+AP1082,A,avancé,89.1,1,33,Québec,21.0
+AP1083,B,débutant,64.4,1,39,Outaouais,24.4
+AP1084,A,avancé,57.4,0,43,Montréal,24.7
+AP1085,B,débutant,56.2,0,34,Montréal,38.7
+AP1086,A,avancé,45.7,0,39,Québec,30.1
+AP1087,B,débutant,70.1,1,26,Hors Québec,21.3
+AP1088,A,avancé,70.2,1,45,Hors Québec,30.9
+AP1089,A,débutant,46.2,0,43,Montréal,32.7
+AP1090,B,débutant,46.5,0,21,Montréal,21.8
+AP1091,A,avancé,76.3,1,40,Montréal,8.4
+AP1092,B,débutant,75.5,1,38,Québec,18.0
+AP1093,B,avancé,83.4,1,41,Outaouais,19.5
+AP1094,A,avancé,72.6,1,27,Hors Québec,27.4
+AP1095,A,avancé,63.2,1,45,Hors Québec,18.5
+AP1096,A,avancé,92.5,1,28,Québec,20.7
+AP1097,A,avancé,90.0,1,42,Québec,23.7
+AP1098,B,débutant,62.1,1,34,Hors Québec,20.4
+AP1099,A,avancé,91.0,1,35,Hors Québec,26.8
+AP1100,A,avancé,46.3,0,36,Montréal,30.1
+AP1101,B,débutant,59.4,0,25,Outaouais,20.3
+AP1102,B,débutant,62.0,1,31,Montréal,29.9
+AP1103,A,avancé,69.5,1,19,Québec,22.1
+AP1104,B,débutant,48.6,0,23,Québec,26.1
+AP1105,A,débutant,41.4,0,39,Québec,19.1
+AP1106,B,débutant,47.2,0,37,Montréal,21.9
+AP1107,B,débutant,42.1,0,26,Montréal,17.9
+AP1108,B,débutant,58.4,0,40,Hors Québec,27.5
+AP1109,B,débutant,57.2,0,24,Outaouais,31.6
+AP1110,A,avancé,72.8,1,42,Hors Québec,32.5
+AP1111,B,débutant,39.2,0,43,Hors Québec,23.2
+AP1112,B,débutant,66.0,1,20,Montréal,29.1
+AP1113,A,débutant,48.3,0,33,Québec,22.7
+AP1114,B,débutant,63.3,1,22,Outaouais,24.7
+AP1115,A,intermédiaire,71.6,1,31,Outaouais,34.6
+AP1116,B,débutant,73.7,1,21,Montréal,23.1
+AP1117,A,avancé,74.5,1,37,Hors Québec,21.7
+AP1118,A,avancé,75.1,1,19,Québec,29.3
+AP1119,A,avancé,80.4,1,43,Québec,14.3
+AP1120,A,avancé,78.7,1,34,Québec,18.8
+AP1121,B,débutant,68.4,1,45,Hors Québec,17.1
+AP1122,A,avancé,52.7,0,39,Outaouais,20.0
+AP1123,A,avancé,75.1,1,37,Québec,8.8
+AP1124,A,avancé,76.3,1,24,Montréal,18.0
+AP1125,A,avancé,64.0,1,31,Outaouais,26.7
+AP1126,A,avancé,82.1,1,32,Montréal,36.8
+AP1127,B,débutant,39.2,0,24,Hors Québec,20.8
+AP1128,A,avancé,49.9,0,20,Hors Québec,30.3
+AP1129,B,débutant,55.6,0,38,Hors Québec,14.2
+AP1130,A,intermédiaire,46.1,0,20,Montréal,15.8
+AP1131,B,débutant,43.2,0,31,Hors Québec,14.6
+AP1132,B,débutant,35.0,0,45,Québec,16.8
+AP1133,A,avancé,60.2,1,24,Outaouais,15.0
+AP1134,A,avancé,99.4,1,34,Hors Québec,18.9
+AP1135,A,avancé,70.6,1,45,Outaouais,29.2
+AP1136,A,avancé,60.5,1,45,Outaouais,29.9
+AP1137,A,débutant,32.7,0,39,Hors Québec,15.2
+AP1138,A,avancé,71.6,1,43,Montréal,26.5
+AP1139,B,débutant,72.3,1,29,Hors Québec,24.3
+AP1140,B,débutant,67.1,1,32,Hors Québec,22.4
+AP1141,A,avancé,72.8,1,23,Outaouais,23.5
+AP1142,B,débutant,55.0,0,41,Hors Québec,29.9
+AP1143,B,débutant,50.4,0,27,Québec,22.9
+AP1144,B,débutant,48.3,0,28,Hors Québec,17.9
+AP1145,B,débutant,41.7,0,39,Hors Québec,20.8
+AP1146,B,débutant,63.2,1,27,Outaouais,23.8
+AP1147,A,avancé,63.7,1,22,Montréal,22.8
+AP1148,A,intermédiaire,74.6,1,28,Québec,19.5
+AP1149,B,débutant,50.1,0,42,Outaouais,12.0
+AP1150,A,avancé,75.0,1,21,Montréal,16.5
+AP1151,B,débutant,53.3,0,31,Québec,16.9
+AP1152,B,débutant,69.5,1,24,Québec,29.9
+AP1153,A,avancé,80.9,1,20,Montréal,21.6
+AP1154,A,avancé,52.4,0,42,Québec,22.3
+AP1155,A,avancé,59.4,0,31,Montréal,16.6
+AP1156,A,avancé,68.1,1,19,Montréal,31.9
+AP1157,B,débutant,39.7,0,43,Hors Québec,13.1
+AP1158,A,avancé,85.7,1,20,Québec,20.7
+AP1159,B,débutant,45.5,0,35,Québec,32.8
+AP1160,B,débutant,54.6,0,36,Hors Québec,29.2
+AP1161,B,débutant,53.8,0,32,Québec,21.4
+AP1162,B,débutant,47.9,0,32,Montréal,17.0
+AP1163,A,intermédiaire,70.1,1,37,Montréal,30.7
+AP1164,B,débutant,70.6,1,43,Hors Québec,16.8
+AP1165,B,débutant,50.3,0,21,Montréal,20.7
+AP1166,B,débutant,48.1,0,26,Montréal,21.7
+AP1167,A,débutant,63.3,1,32,Québec,24.0
+AP1168,B,débutant,69.4,1,33,Montréal,23.0
+AP1169,A,avancé,80.1,1,38,Hors Québec,22.3
+AP1170,A,avancé,65.6,1,41,Québec,18.4
+AP1171,B,débutant,65.9,1,26,Montréal,29.4
+AP1172,A,avancé,66.9,1,40,Montréal,22.0
+AP1173,A,avancé,48.2,0,41,Québec,15.8
+AP1174,A,avancé,83.1,1,25,Hors Québec,18.2
+AP1175,B,débutant,59.2,0,37,Québec,19.4
+AP1176,B,débutant,80.3,1,40,Outaouais,17.8
+AP1177,B,débutant,63.3,1,21,Montréal,25.1
+AP1178,B,débutant,66.5,1,23,Montréal,23.6
+AP1179,B,débutant,54.5,0,25,Québec,27.2
+AP1180,B,avancé,75.4,1,32,Montréal,16.5
+AP1181,B,intermédiaire,74.6,1,41,Montréal,34.4
+AP1182,B,débutant,26.0,0,36,Hors Québec,14.2
+AP1183,A,avancé,75.4,1,26,Montréal,33.1
+AP1184,A,avancé,46.0,0,21,Québec,11.8
+AP1185,B,avancé,92.4,1,30,Montréal,17.8
+AP1186,B,avancé,82.2,1,40,Outaouais,15.8
+AP1187,A,intermédiaire,62.6,1,28,Hors Québec,20.5
+AP1188,A,avancé,66.9,1,27,Québec,21.4
+AP1189,A,avancé,75.4,1,27,Hors Québec,35.0
+AP1190,B,débutant,46.3,0,32,Montréal,36.0
+AP1191,A,débutant,59.1,0,39,Québec,20.6
+AP1192,A,avancé,53.6,0,40,Montréal,16.0
+AP1193,B,débutant,42.5,0,41,Québec,16.4
+AP1194,A,intermédiaire,59.0,0,31,Hors Québec,7.2
+AP1195,A,avancé,51.7,0,43,Hors Québec,25.9
+AP1196,B,débutant,52.0,0,20,Outaouais,34.3
+AP1197,A,avancé,59.0,0,20,Montréal,9.2
+AP1198,B,débutant,62.7,1,19,Hors Québec,27.0
+AP1199,A,avancé,85.3,1,29,Hors Québec,19.5
+AP1200,B,débutant,57.1,0,31,Hors Québec,21.8
+AP1201,A,avancé,49.8,0,40,Hors Québec,28.2
+AP1202,A,avancé,86.5,1,45,Hors Québec,22.7
+AP1203,A,avancé,72.8,1,37,Outaouais,9.5
+AP1204,B,débutant,72.3,1,35,Montréal,25.4
+AP1205,A,avancé,63.2,1,21,Québec,24.8
+AP1206,B,débutant,57.8,0,37,Montréal,19.5
+AP1207,B,intermédiaire,67.1,1,28,Hors Québec,31.2
+AP1208,A,intermédiaire,47.1,0,19,Québec,27.5
+AP1209,B,débutant,65.8,1,37,Montréal,33.9
+AP1210,B,avancé,100.0,1,33,Outaouais,12.5
+AP1211,B,débutant,49.8,0,26,Montréal,24.0
+AP1212,A,avancé,65.7,1,38,Outaouais,16.4
+AP1213,B,débutant,78.0,1,23,Montréal,20.8
+AP1214,B,débutant,31.8,0,22,Hors Québec,23.7
+AP1215,B,débutant,73.2,1,21,Montréal,16.6
+AP1216,B,débutant,79.8,1,30,Québec,18.9
+AP1217,B,débutant,72.6,1,24,Québec,16.4
+AP1218,A,intermédiaire,54.8,0,24,Montréal,19.9
+AP1219,B,débutant,42.3,0,23,Hors Québec,19.3
+AP1220,B,débutant,64.8,1,22,Hors Québec,28.5
+AP1221,B,débutant,42.8,0,42,Québec,16.8
+AP1222,A,avancé,59.1,0,43,Outaouais,19.4
+AP1223,B,débutant,62.2,1,41,Montréal,41.5
+AP1224,B,débutant,36.3,0,19,Outaouais,22.3
+AP1225,A,avancé,100.0,1,25,Outaouais,33.9
+AP1226,B,débutant,63.0,1,29,Hors Québec,22.5
+AP1227,B,débutant,63.5,1,21,Hors Québec,26.9
+AP1228,B,avancé,69.2,1,36,Outaouais,27.9
+AP1229,A,avancé,80.8,1,31,Québec,28.5
+AP1230,A,avancé,66.7,1,32,Québec,13.7
+AP1231,B,débutant,56.6,0,28,Québec,3.9
+AP1232,A,avancé,61.6,1,22,Outaouais,41.5
+AP1233,A,avancé,71.8,1,24,Outaouais,27.3
+AP1234,A,avancé,64.0,1,22,Hors Québec,26.0
+AP1235,B,avancé,83.4,1,32,Hors Québec,24.6
+AP1236,A,débutant,56.5,0,36,Montréal,17.6
+AP1237,A,avancé,52.3,0,38,Québec,17.1
+AP1238,B,débutant,65.0,1,25,Outaouais,26.5
+AP1239,A,avancé,73.0,1,33,Hors Québec,33.1
+AP1240,B,débutant,54.8,0,42,Outaouais,17.3
+AP1241,A,avancé,64.9,1,19,Montréal,20.1
+AP1242,A,avancé,85.3,1,25,Outaouais,16.6
+AP1243,A,avancé,50.2,0,20,Montréal,22.9
+AP1244,B,débutant,51.1,0,25,Montréal,19.7
+AP1245,B,débutant,35.4,0,19,Hors Québec,30.7
+AP1246,A,avancé,85.1,1,19,Québec,30.3
+AP1247,B,débutant,56.4,0,41,Hors Québec,14.0
+AP1248,A,intermédiaire,62.0,1,25,Outaouais,32.9
+AP1249,B,débutant,77.2,1,30,Outaouais,6.4
+AP1250,A,avancé,68.3,1,22,Montréal,9.9
+AP1251,A,avancé,55.4,0,29,Hors Québec,19.2
+AP1252,A,avancé,44.8,0,45,Hors Québec,22.3
+AP1253,A,avancé,67.4,1,23,Québec,19.6
+AP1254,A,avancé,73.8,1,22,Hors Québec,19.2
+AP1255,A,intermédiaire,49.6,0,23,Outaouais,12.5
+AP1256,B,débutant,55.4,0,45,Québec,19.9
+AP1257,B,débutant,57.7,0,26,Outaouais,15.4
+AP1258,B,débutant,50.8,0,23,Outaouais,28.7
+AP1259,A,avancé,63.2,1,24,Hors Québec,29.4
+AP1260,B,débutant,51.7,0,22,Montréal,10.0
+AP1261,A,avancé,87.6,1,32,Hors Québec,40.5
+AP1262,B,débutant,36.3,0,28,Outaouais,21.2
+AP1263,B,débutant,29.1,0,27,Outaouais,28.8
+AP1264,B,débutant,68.6,1,23,Outaouais,30.2
+AP1265,A,avancé,66.1,1,27,Hors Québec,17.3
+AP1266,A,avancé,69.1,1,24,Montréal,21.2
+AP1267,A,avancé,76.8,1,19,Montréal,21.7
+AP1268,B,débutant,31.2,0,23,Québec,17.1
+AP1269,A,avancé,76.1,1,33,Hors Québec,25.0
+AP1270,B,intermédiaire,61.2,1,26,Hors Québec,20.9
+AP1271,A,avancé,68.7,1,40,Hors Québec,32.3
+AP1272,A,débutant,39.5,0,33,Hors Québec,18.4
+AP1273,A,avancé,62.0,1,31,Québec,22.0
+AP1274,A,avancé,63.0,1,23,Hors Québec,22.4
+AP1275,A,avancé,84.9,1,23,Outaouais,19.9
+AP1276,B,débutant,63.1,1,34,Montréal,29.7
+AP1277,A,débutant,63.8,1,25,Hors Québec,15.6
+AP1278,A,avancé,73.8,1,32,Montréal,27.2
+AP1279,B,débutant,64.4,1,21,Québec,15.5
+AP1280,B,intermédiaire,51.2,0,21,Québec,22.8
+AP1281,B,débutant,66.3,1,31,Montréal,19.6
+AP1282,B,avancé,62.7,1,22,Montréal,15.1
+AP1283,A,intermédiaire,41.8,0,42,Montréal,18.1
+AP1284,A,avancé,75.4,1,44,Montréal,24.6
+AP1285,B,avancé,86.4,1,35,Montréal,19.7
+AP1286,B,intermédiaire,66.9,1,20,Montréal,21.3
+AP1287,B,débutant,67.2,1,30,Québec,15.3
+AP1288,A,intermédiaire,68.4,1,30,Outaouais,24.8
+AP1289,B,intermédiaire,100.0,1,39,Québec,17.8
+AP1290,A,avancé,82.1,1,45,Québec,29.2
+AP1291,B,débutant,64.9,1,33,Hors Québec,21.0
+AP1292,B,débutant,48.0,0,29,Montréal,21.4
+AP1293,A,avancé,80.5,1,35,Montréal,25.1
+AP1294,A,avancé,57.2,0,22,Hors Québec,18.6
+AP1295,A,avancé,86.0,1,38,Outaouais,26.2
+AP1296,B,débutant,54.6,0,23,Montréal,14.3
+AP1297,A,avancé,72.8,1,23,Montréal,17.9
+AP1298,B,débutant,38.3,0,19,Montréal,23.8
+AP1299,B,débutant,79.6,1,27,Hors Québec,23.4
+AP1300,B,intermédiaire,78.6,1,45,Montréal,22.8
+AP1301,B,débutant,52.2,0,44,Québec,15.1
+AP1302,B,débutant,33.5,0,23,Montréal,13.7
+AP1303,B,intermédiaire,58.6,0,42,Hors Québec,40.4
+AP1304,A,avancé,86.5,1,20,Hors Québec,28.4
+AP1305,A,avancé,70.6,1,42,Montréal,26.4
+AP1306,B,débutant,48.8,0,43,Hors Québec,10.6
+AP1307,B,débutant,37.1,0,32,Montréal,29.4
+AP1308,B,avancé,100.0,1,33,Québec,16.2
+AP1309,B,débutant,69.9,1,25,Hors Québec,22.9
+AP1310,B,débutant,51.9,0,43,Montréal,17.9
+AP1311,B,débutant,49.6,0,27,Québec,15.1
+AP1312,B,débutant,44.4,0,42,Hors Québec,32.3
+AP1313,B,débutant,50.1,0,44,Outaouais,34.5
+AP1314,A,avancé,59.2,0,35,Hors Québec,21.3
+AP1315,A,avancé,81.7,1,41,Québec,21.8
+AP1316,A,avancé,61.0,1,35,Montréal,19.6
+AP1317,B,débutant,56.7,0,43,Montréal,20.4
+AP1318,B,avancé,73.6,1,24,Montréal,26.7
+AP1319,B,débutant,52.4,0,28,Hors Québec,21.3
+AP1320,A,débutant,53.6,0,28,Outaouais,36.5
+AP1321,A,avancé,39.2,0,20,Québec,23.7
+AP1322,B,avancé,88.1,1,38,Hors Québec,23.7
+AP1323,A,avancé,52.7,0,23,Outaouais,21.3
+AP1324,B,débutant,52.4,0,40,Québec,29.2
+AP1325,B,débutant,59.6,0,40,Montréal,22.7
+AP1326,A,avancé,63.8,1,31,Outaouais,25.2
+AP1327,A,avancé,55.4,0,24,Québec,11.8
+AP1328,B,intermédiaire,62.5,1,31,Montréal,16.0
+AP1329,B,intermédiaire,59.0,0,30,Québec,14.5
+AP1330,B,débutant,77.9,1,39,Québec,27.0
+AP1331,B,intermédiaire,74.8,1,27,Outaouais,16.7
+AP1332,B,débutant,66.0,1,37,Montréal,15.1
+AP1333,B,débutant,49.1,0,25,Québec,24.5
+AP1334,B,débutant,40.4,0,40,Québec,24.6
+AP1335,B,débutant,57.0,0,20,Québec,15.4
+AP1336,A,débutant,19.3,0,42,Hors Québec,29.0
+AP1337,B,débutant,61.3,1,29,Montréal,18.8
+AP1338,A,avancé,73.5,1,42,Hors Québec,26.7
+AP1339,B,débutant,64.2,1,38,Montréal,18.5
+AP1340,A,avancé,73.6,1,33,Montréal,19.2
+AP1341,B,débutant,63.5,1,26,Québec,21.9
+AP1342,A,avancé,72.3,1,43,Outaouais,23.0
+AP1343,A,avancé,77.7,1,32,Hors Québec,12.3
+AP1344,B,débutant,64.5,1,38,Québec,27.4
+AP1345,B,intermédiaire,47.2,0,45,Hors Québec,19.7
+AP1346,B,débutant,48.0,0,37,Québec,25.1
+AP1347,A,intermédiaire,52.7,0,28,Outaouais,20.2
+AP1348,B,débutant,45.3,0,27,Montréal,20.8
+AP1349,A,avancé,57.8,0,33,Montréal,24.1
+AP1350,A,avancé,80.1,1,38,Québec,19.8
+AP1351,B,débutant,59.4,0,42,Montréal,22.5
+AP1352,B,débutant,49.9,0,40,Montréal,29.3
+AP1353,A,intermédiaire,38.3,0,26,Montréal,29.2
+AP1354,B,débutant,72.6,1,32,Québec,12.8
+AP1355,A,avancé,70.8,1,23,Montréal,34.6
+AP1356,B,débutant,42.6,0,38,Outaouais,24.8
+AP1357,B,débutant,64.8,1,21,Québec,22.2
+AP1358,A,avancé,52.7,0,35,Québec,18.7
+AP1359,B,débutant,59.8,0,41,Montréal,22.0
+AP1360,B,débutant,62.7,1,36,Montréal,20.2
+AP1361,A,avancé,94.4,1,31,Montréal,24.2
+AP1362,B,avancé,68.4,1,39,Hors Québec,24.3
+AP1363,A,avancé,83.0,1,40,Outaouais,24.9
+AP1364,A,avancé,67.2,1,33,Hors Québec,26.5
+AP1365,A,avancé,76.5,1,20,Québec,41.0
+AP1366,A,avancé,75.5,1,24,Outaouais,22.6
+AP1367,B,intermédiaire,76.3,1,38,Hors Québec,24.7
+AP1368,B,débutant,49.9,0,42,Montréal,21.3
+AP1369,A,avancé,60.4,1,41,Montréal,20.3
+AP1370,A,intermédiaire,65.0,1,27,Montréal,16.7
+AP1371,B,débutant,59.2,0,32,Québec,19.4
+AP1372,B,intermédiaire,69.8,1,19,Québec,15.7
+AP1373,A,avancé,74.5,1,34,Outaouais,19.0
+AP1374,B,débutant,61.3,1,28,Hors Québec,21.5
+AP1375,A,avancé,99.9,1,31,Montréal,16.2
+AP1376,B,débutant,78.9,1,24,Outaouais,22.5
+AP1377,B,débutant,65.8,1,25,Hors Québec,12.2
+AP1378,A,avancé,83.9,1,25,Québec,21.0
+AP1379,A,avancé,54.5,0,32,Outaouais,26.4
+AP1380,B,débutant,63.0,1,39,Québec,34.1
+AP1381,B,avancé,88.4,1,35,Outaouais,27.5
+AP1382,A,avancé,81.9,1,39,Outaouais,21.0
+AP1383,B,débutant,57.4,0,20,Outaouais,27.2
+AP1384,B,débutant,54.2,0,36,Hors Québec,19.9
+AP1385,A,avancé,75.8,1,38,Hors Québec,16.0
+AP1386,B,débutant,40.8,0,34,Hors Québec,16.4
+AP1387,B,débutant,47.5,0,39,Hors Québec,25.8
+AP1388,B,intermédiaire,68.5,1,26,Outaouais,23.9
+AP1389,A,avancé,58.9,0,29,Montréal,8.9
+AP1390,B,débutant,53.2,0,39,Québec,25.0
+AP1391,B,intermédiaire,75.5,1,35,Québec,23.4
+AP1392,A,avancé,67.5,1,27,Québec,25.2
+AP1393,A,avancé,71.2,1,32,Montréal,29.0
+AP1394,B,débutant,59.6,0,35,Outaouais,13.4
+AP1395,A,intermédiaire,60.9,1,42,Montréal,26.6
+AP1396,A,débutant,50.8,0,44,Outaouais,30.3
+AP1397,B,débutant,51.6,0,24,Québec,23.4
+AP1398,A,intermédiaire,89.6,1,44,Québec,25.8
+AP1399,B,intermédiaire,80.0,1,38,Montréal,25.8
+AP1400,A,avancé,77.1,1,25,Montréal,24.9
+AP1401,A,avancé,65.8,1,19,Montréal,18.7
+AP1402,B,débutant,51.2,0,41,Hors Québec,19.3
+AP1403,A,avancé,70.9,1,26,Montréal,22.8
+AP1404,B,avancé,62.2,1,27,Montréal,15.9
+AP1405,A,avancé,62.7,1,45,Outaouais,14.2
+AP1406,A,avancé,69.3,1,29,Outaouais,21.9
+AP1407,B,débutant,35.7,0,31,Montréal,15.7
+AP1408,B,débutant,56.0,0,38,Montréal,20.8
+AP1409,A,avancé,80.1,1,26,Outaouais,31.0
+AP1410,A,avancé,87.3,1,26,Québec,26.9
+AP1411,A,intermédiaire,33.8,0,27,Outaouais,29.7
+AP1412,B,débutant,65.4,1,38,Outaouais,12.8
+AP1413,A,avancé,84.9,1,25,Montréal,16.8
+AP1414,A,débutant,40.8,0,44,Québec,25.2
+AP1415,A,avancé,53.5,0,37,Outaouais,23.6
+AP1416,A,avancé,79.4,1,38,Hors Québec,27.7
+AP1417,B,débutant,54.3,0,36,Hors Québec,32.0
+AP1418,B,débutant,54.6,0,33,Hors Québec,11.9
+AP1419,A,avancé,72.3,1,27,Montréal,27.0
+AP1420,B,débutant,52.3,0,21,Hors Québec,21.7
+AP1421,B,débutant,67.3,1,32,Montréal,26.9
+AP1422,A,avancé,76.8,1,19,Hors Québec,30.8
+AP1423,B,intermédiaire,64.0,1,33,Hors Québec,26.0
+AP1424,A,débutant,51.6,0,41,Hors Québec,19.8
+AP1425,B,intermédiaire,82.6,1,39,Montréal,28.3
+AP1426,A,intermédiaire,50.9,0,37,Hors Québec,30.8
+AP1427,A,avancé,64.3,1,29,Hors Québec,18.6
+AP1428,A,débutant,45.7,0,40,Outaouais,20.2
+AP1429,A,débutant,55.6,0,39,Québec,17.0
+AP1430,A,avancé,72.2,1,37,Outaouais,20.2
+AP1431,A,avancé,71.7,1,34,Hors Québec,23.3
+AP1432,B,débutant,66.3,1,25,Hors Québec,15.3
+AP1433,B,intermédiaire,68.3,1,31,Montréal,26.2
+AP1434,A,avancé,81.7,1,22,Outaouais,19.2
+AP1435,A,avancé,88.5,1,42,Outaouais,27.0
+AP1436,B,débutant,47.5,0,30,Outaouais,22.4
+AP1437,A,avancé,56.4,0,34,Montréal,20.5
+AP1438,B,débutant,54.3,0,28,Montréal,10.8
+AP1439,A,avancé,57.1,0,33,Québec,25.2
+AP1440,A,avancé,43.8,0,28,Montréal,10.6
+AP1441,B,avancé,59.5,0,33,Outaouais,27.8
+AP1442,A,avancé,73.6,1,36,Hors Québec,21.8
+AP1443,A,intermédiaire,66.2,1,31,Hors Québec,22.1
+AP1444,A,avancé,72.7,1,37,Hors Québec,18.5
+AP1445,A,avancé,76.4,1,30,Hors Québec,25.1
+AP1446,A,avancé,54.1,0,22,Hors Québec,18.5
+AP1447,A,avancé,52.6,0,31,Outaouais,25.3
+AP1448,B,débutant,43.5,0,41,Outaouais,23.1
+AP1449,B,débutant,64.4,1,28,Québec,17.9
+AP1450,A,avancé,74.6,1,19,Québec,15.4
+AP1451,A,intermédiaire,54.9,0,19,Outaouais,13.3
+AP1452,B,intermédiaire,79.7,1,33,Québec,15.1
+AP1453,A,avancé,60.2,1,40,Montréal,20.7
+AP1454,B,débutant,62.0,1,41,Outaouais,21.7
+AP1455,B,intermédiaire,53.2,0,40,Outaouais,23.5
+AP1456,A,avancé,69.3,1,43,Hors Québec,14.1
+AP1457,B,intermédiaire,59.0,0,39,Montréal,22.4
+AP1458,A,débutant,53.3,0,42,Outaouais,22.6
+AP1459,B,débutant,53.2,0,19,Montréal,20.1
+AP1460,A,débutant,53.9,0,19,Montréal,22.8
+AP1461,A,avancé,97.6,1,39,Hors Québec,17.6
+AP1462,B,débutant,46.9,0,35,Montréal,22.6
+AP1463,B,intermédiaire,66.8,1,42,Québec,18.6
+AP1464,A,avancé,83.7,1,25,Hors Québec,21.5
+AP1465,B,débutant,59.8,0,42,Hors Québec,19.9
+AP1466,A,intermédiaire,66.3,1,34,Hors Québec,18.6
+AP1467,B,avancé,95.1,1,21,Outaouais,25.3
+AP1468,B,débutant,56.2,0,44,Outaouais,26.7
+AP1469,B,débutant,58.8,0,44,Outaouais,12.2
+AP1470,A,avancé,79.5,1,33,Montréal,21.2
+AP1471,A,avancé,85.5,1,26,Hors Québec,25.4
+AP1472,A,avancé,82.0,1,35,Québec,26.3
+AP1473,A,avancé,52.4,0,26,Montréal,17.1
+AP1474,B,débutant,53.5,0,32,Québec,26.7
+AP1475,B,débutant,64.0,1,35,Québec,19.2
+AP1476,B,débutant,55.5,0,36,Hors Québec,21.8
+AP1477,A,avancé,71.5,1,24,Hors Québec,22.4
+AP1478,B,débutant,65.5,1,24,Québec,23.7
+AP1479,B,débutant,41.1,0,22,Hors Québec,12.6
+AP1480,A,avancé,56.8,0,37,Montréal,27.6
+AP1481,A,avancé,72.6,1,28,Hors Québec,5.5
+AP1482,A,avancé,84.3,1,22,Québec,26.0
+AP1483,B,intermédiaire,63.5,1,28,Hors Québec,32.1
+AP1484,A,avancé,73.2,1,30,Québec,14.6
+AP1485,B,débutant,69.9,1,36,Hors Québec,21.6
+AP1486,A,intermédiaire,82.1,1,43,Montréal,16.1
+AP1487,B,débutant,41.0,0,34,Montréal,33.6
+AP1488,A,avancé,74.3,1,37,Québec,16.4
+AP1489,B,débutant,62.7,1,34,Montréal,11.6
+AP1490,B,débutant,39.1,0,41,Outaouais,17.5
+AP1491,A,avancé,51.5,0,21,Outaouais,19.9
+AP1492,A,avancé,45.8,0,34,Outaouais,13.3
+AP1493,B,intermédiaire,52.1,0,27,Montréal,13.1
+AP1494,A,avancé,67.5,1,41,Québec,33.3
+AP1495,B,débutant,23.0,0,26,Hors Québec,35.2
+AP1496,A,avancé,70.7,1,28,Outaouais,19.0
+AP1497,A,avancé,88.7,1,45,Hors Québec,26.7
+AP1498,A,intermédiaire,66.6,1,39,Hors Québec,21.1
+AP1499,B,débutant,66.7,1,41,Montréal,26.1
+AP1500,A,débutant,65.5,1,22,Québec,6.4
+AP1501,B,débutant,68.3,1,35,Outaouais,27.9
+AP1502,B,débutant,50.8,0,41,Montréal,19.5
+AP1503,A,avancé,42.0,0,42,Hors Québec,15.9
+AP1504,A,avancé,57.7,0,28,Québec,21.4
+AP1505,A,avancé,73.3,1,31,Montréal,23.2
+AP1506,A,avancé,61.5,1,31,Hors Québec,28.9
+AP1507,A,avancé,65.6,1,25,Hors Québec,31.3
+AP1508,B,débutant,55.1,0,21,Montréal,20.4
+AP1509,A,intermédiaire,36.6,0,35,Hors Québec,24.6
+AP1510,A,débutant,59.9,0,37,Hors Québec,17.8
+AP1511,A,intermédiaire,44.8,0,36,Montréal,25.7
+AP1512,B,débutant,87.8,1,37,Outaouais,23.4
+AP1513,B,débutant,55.4,0,21,Montréal,23.8
+AP1514,B,débutant,64.0,1,31,Montréal,31.8
+AP1515,A,avancé,79.6,1,42,Outaouais,18.0
+AP1516,A,avancé,72.4,1,24,Hors Québec,26.4
+AP1517,A,avancé,97.3,1,42,Outaouais,17.1
+AP1518,B,intermédiaire,86.6,1,20,Hors Québec,23.5
+AP1519,B,débutant,56.6,0,39,Outaouais,10.6
+AP1520,B,débutant,44.3,0,33,Outaouais,28.5
+AP1521,B,débutant,56.3,0,38,Québec,22.2
+AP1522,A,avancé,55.1,0,26,Hors Québec,30.2
+AP1523,A,avancé,68.4,1,37,Montréal,25.0
+AP1524,B,débutant,49.7,0,21,Montréal,33.5
+AP1525,A,avancé,75.1,1,19,Outaouais,17.1
+AP1526,A,avancé,74.5,1,20,Québec,26.9
+AP1527,A,avancé,92.5,1,22,Outaouais,22.1
+AP1528,B,avancé,59.0,0,39,Outaouais,15.6
+AP1529,A,avancé,66.8,1,33,Montréal,34.2
+AP1530,B,débutant,68.0,1,39,Outaouais,33.7
+AP1531,B,intermédiaire,61.8,1,22,Montréal,20.3
+AP1532,B,débutant,55.3,0,39,Hors Québec,24.2
+AP1533,A,avancé,45.8,0,21,Hors Québec,22.3
+AP1534,B,débutant,48.1,0,29,Hors Québec,20.1
+AP1535,B,débutant,48.5,0,22,Montréal,27.5
+AP1536,A,débutant,59.0,0,31,Québec,27.3
+AP1537,B,débutant,28.3,0,24,Québec,22.2
+AP1538,A,avancé,68.9,1,27,Outaouais,27.0
+AP1539,A,débutant,67.9,1,23,Québec,19.1
+AP1540,B,intermédiaire,52.7,0,23,Québec,21.7
+AP1541,B,débutant,48.3,0,39,Hors Québec,21.0
+AP1542,B,avancé,82.5,1,43,Hors Québec,20.3
+AP1543,A,avancé,68.8,1,19,Outaouais,22.4
+AP1544,A,avancé,73.0,1,30,Montréal,16.4
+AP1545,A,avancé,49.2,0,36,Montréal,24.6
+AP1546,B,débutant,48.2,0,30,Montréal,27.0
+AP1547,A,avancé,79.7,1,38,Montréal,25.6
+AP1548,A,avancé,69.0,1,41,Québec,11.4
+AP1549,B,débutant,55.6,0,45,Outaouais,31.1
+AP1550,B,avancé,82.6,1,19,Québec,19.7
+AP1551,A,avancé,88.4,1,28,Québec,21.9
+AP1552,B,débutant,35.3,0,23,Hors Québec,17.9
+AP1553,B,débutant,39.9,0,31,Québec,25.6
+AP1554,A,avancé,98.5,1,39,Québec,17.1
+AP1555,A,avancé,67.6,1,23,Outaouais,19.3
+AP1556,A,intermédiaire,81.3,1,29,Montréal,20.5
+AP1557,B,intermédiaire,57.8,0,38,Montréal,25.6
+AP1558,B,débutant,48.4,0,28,Québec,23.8
+AP1559,B,débutant,59.7,0,31,Montréal,26.0
+AP1560,A,avancé,72.4,1,42,Hors Québec,30.3
+AP1561,A,avancé,84.1,1,31,Hors Québec,22.9
+AP1562,B,débutant,40.3,0,22,Montréal,22.7
+AP1563,A,avancé,74.1,1,21,Montréal,24.8
+AP1564,A,intermédiaire,32.1,0,23,Montréal,29.5
+AP1565,A,intermédiaire,57.3,0,29,Hors Québec,26.3
+AP1566,B,intermédiaire,68.1,1,37,Hors Québec,24.9
+AP1567,B,débutant,65.3,1,25,Québec,19.8
+AP1568,B,débutant,52.8,0,35,Outaouais,15.1
+AP1569,B,débutant,65.3,1,40,Outaouais,25.6
+AP1570,A,avancé,67.1,1,38,Montréal,12.7
+AP1571,A,avancé,78.8,1,23,Outaouais,16.9
+AP1572,B,avancé,73.4,1,38,Québec,22.9
+AP1573,A,intermédiaire,69.3,1,27,Québec,14.0
+AP1574,A,intermédiaire,30.3,0,36,Montréal,24.9
+AP1575,B,intermédiaire,69.6,1,35,Québec,20.7
+AP1576,A,débutant,53.5,0,39,Montréal,21.0
+AP1577,A,avancé,77.9,1,36,Québec,25.5
+AP1578,A,avancé,84.5,1,39,Montréal,21.9
+AP1579,A,avancé,62.1,1,35,Québec,35.4
+AP1580,A,avancé,64.7,1,44,Québec,24.9
+AP1581,B,intermédiaire,88.4,1,26,Montréal,19.1
+AP1582,B,débutant,38.8,0,22,Montréal,22.9
+AP1583,A,avancé,77.0,1,28,Hors Québec,16.5
+AP1584,B,débutant,55.8,0,31,Québec,18.1
+AP1585,B,débutant,73.1,1,42,Hors Québec,26.6
+AP1586,A,avancé,81.4,1,24,Montréal,17.9
+AP1587,B,débutant,35.4,0,29,Québec,19.8
+AP1588,A,intermédiaire,62.2,1,40,Outaouais,25.1
+AP1589,B,débutant,37.8,0,38,Québec,11.4
+AP1590,B,débutant,59.1,0,42,Montréal,20.7
+AP1591,A,avancé,76.3,1,43,Outaouais,22.6
+AP1592,B,débutant,36.5,0,37,Hors Québec,19.7
+AP1593,A,avancé,79.3,1,27,Montréal,16.4
+AP1594,B,débutant,72.8,1,25,Montréal,16.0
+AP1595,A,avancé,49.9,0,32,Hors Québec,11.1
+AP1596,B,débutant,86.7,1,38,Outaouais,28.4
+AP1597,B,intermédiaire,57.1,0,24,Hors Québec,16.6
+AP1598,B,débutant,51.1,0,24,Outaouais,21.5
+AP1599,A,avancé,78.7,1,29,Québec,20.9
+AP1600,A,avancé,76.5,1,21,Hors Québec,25.5
+AP1601,B,débutant,68.8,1,43,Hors Québec,18.8
+AP1602,A,avancé,65.7,1,36,Montréal,21.1
+AP1603,B,débutant,62.8,1,32,Montréal,18.2
+AP1604,B,débutant,51.0,0,32,Outaouais,26.7
+AP1605,A,avancé,56.9,0,45,Québec,16.6
+AP1606,A,intermédiaire,61.5,1,37,Hors Québec,16.8
+AP1607,A,intermédiaire,64.8,1,31,Hors Québec,20.9
+AP1608,A,intermédiaire,53.1,0,32,Outaouais,20.8
+AP1609,A,avancé,72.2,1,25,Outaouais,16.5
+AP1610,B,débutant,74.0,1,45,Outaouais,20.6
+AP1611,A,débutant,46.0,0,26,Québec,21.8
+AP1612,B,débutant,52.3,0,35,Hors Québec,25.7
+AP1613,B,débutant,74.3,1,34,Québec,9.5
+AP1614,B,débutant,49.8,0,31,Montréal,32.3
+AP1615,B,débutant,54.7,0,35,Québec,35.2
+AP1616,A,avancé,77.4,1,23,Montréal,27.7
+AP1617,A,avancé,61.9,1,43,Hors Québec,16.2
+AP1618,A,avancé,69.9,1,37,Hors Québec,23.4
+AP1619,B,avancé,87.0,1,27,Québec,16.0
+AP1620,B,intermédiaire,51.4,0,43,Montréal,22.5
+AP1621,A,avancé,65.6,1,21,Hors Québec,24.7
+AP1622,A,avancé,47.2,0,44,Hors Québec,22.6
+AP1623,B,débutant,40.5,0,36,Québec,25.3
+AP1624,B,débutant,45.4,0,43,Outaouais,18.1
+AP1625,B,débutant,68.0,1,45,Outaouais,27.5
+AP1626,A,avancé,85.3,1,24,Hors Québec,20.6
+AP1627,A,avancé,65.2,1,21,Hors Québec,25.2
+AP1628,A,avancé,66.5,1,21,Hors Québec,11.3
+AP1629,A,débutant,60.6,1,37,Montréal,25.8
+AP1630,A,avancé,51.6,0,33,Outaouais,27.2
+AP1631,B,débutant,21.5,0,26,Hors Québec,13.7
+AP1632,A,intermédiaire,43.7,0,30,Québec,22.7
+AP1633,A,intermédiaire,74.3,1,24,Québec,30.2
+AP1634,A,avancé,70.6,1,27,Hors Québec,18.4
+AP1635,B,débutant,55.6,0,19,Montréal,14.4
+AP1636,A,avancé,86.5,1,34,Outaouais,19.7
+AP1637,B,débutant,47.4,0,37,Hors Québec,29.6
+AP1638,B,débutant,27.4,0,30,Québec,22.0
+AP1639,A,avancé,65.5,1,44,Outaouais,15.7
+AP1640,A,avancé,64.2,1,22,Québec,22.0
+AP1641,B,débutant,62.4,1,37,Outaouais,10.6
+AP1642,B,débutant,55.4,0,20,Montréal,29.3
+AP1643,B,débutant,65.7,1,35,Québec,23.8
+AP1644,A,avancé,48.4,0,21,Québec,26.1
+AP1645,B,intermédiaire,62.4,1,32,Hors Québec,23.1
+AP1646,B,intermédiaire,65.4,1,37,Hors Québec,20.8
+AP1647,A,avancé,68.8,1,32,Hors Québec,24.3
+AP1648,A,avancé,48.8,0,34,Montréal,25.8
+AP1649,B,débutant,49.6,0,28,Montréal,23.5
+AP1650,A,avancé,78.4,1,39,Hors Québec,29.1
+AP1651,A,avancé,65.4,1,27,Québec,16.8
+AP1652,B,débutant,57.4,0,28,Québec,35.2
+AP1653,A,avancé,66.5,1,26,Hors Québec,26.0
+AP1654,A,avancé,61.8,1,33,Outaouais,36.2
+AP1655,B,débutant,57.2,0,28,Hors Québec,18.7
+AP1656,B,intermédiaire,69.9,1,40,Québec,20.6
+AP1657,A,avancé,68.8,1,28,Hors Québec,16.6
+AP1658,A,avancé,64.6,1,38,Outaouais,18.9
+AP1659,B,débutant,45.1,0,35,Montréal,19.1
+AP1660,A,avancé,71.0,1,45,Outaouais,23.2
+AP1661,A,avancé,39.7,0,21,Hors Québec,23.1
+AP1662,B,avancé,73.9,1,30,Hors Québec,19.1
+AP1663,B,débutant,67.9,1,38,Montréal,21.8
+AP1664,A,avancé,52.8,0,38,Outaouais,13.0
+AP1665,B,débutant,76.9,1,31,Québec,25.4
+AP1666,B,débutant,47.3,0,40,Outaouais,26.5
+AP1667,B,débutant,48.9,0,42,Montréal,20.6
+AP1668,A,intermédiaire,63.2,1,41,Hors Québec,3.0
+AP1669,A,avancé,62.1,1,19,Hors Québec,29.1
+AP1670,B,débutant,68.0,1,36,Montréal,21.4
+AP1671,A,avancé,94.5,1,43,Québec,20.1
+AP1672,A,avancé,74.7,1,34,Hors Québec,30.8
+AP1673,A,avancé,41.8,0,29,Québec,17.9
+AP1674,B,débutant,69.2,1,43,Outaouais,22.0
+AP1675,A,avancé,74.2,1,31,Québec,18.3
+AP1676,A,avancé,56.0,0,41,Montréal,25.8
+AP1677,A,avancé,67.4,1,29,Montréal,25.5
+AP1678,B,débutant,44.8,0,41,Québec,26.5
+AP1679,B,avancé,89.7,1,34,Outaouais,29.0
+AP1680,B,débutant,65.2,1,27,Québec,20.4
+AP1681,A,avancé,51.3,0,41,Hors Québec,23.5
+AP1682,B,débutant,48.4,0,34,Québec,23.9
+AP1683,B,débutant,53.1,0,27,Montréal,24.8
+AP1684,B,intermédiaire,58.6,0,44,Hors Québec,25.8
+AP1685,B,débutant,29.5,0,33,Hors Québec,14.0
+AP1686,B,débutant,47.0,0,36,Hors Québec,23.5
+AP1687,A,avancé,74.5,1,33,Québec,15.6
+AP1688,B,débutant,69.6,1,42,Hors Québec,22.6
+AP1689,B,débutant,37.1,0,37,Québec,6.2
+AP1690,A,avancé,75.6,1,34,Outaouais,14.0
+AP1691,A,avancé,76.1,1,30,Outaouais,26.3
+AP1692,A,intermédiaire,62.0,1,30,Québec,18.4
+AP1693,B,débutant,49.4,0,38,Outaouais,21.6
+AP1694,A,avancé,65.6,1,20,Montréal,28.6
+AP1695,B,débutant,53.5,0,35,Hors Québec,25.8
+AP1696,A,avancé,56.0,0,39,Outaouais,23.9
+AP1697,B,débutant,70.0,1,31,Montréal,15.8
+AP1698,A,avancé,83.3,1,25,Hors Québec,24.4
+AP1699,A,débutant,48.3,0,31,Montréal,20.4
+AP1700,B,intermédiaire,43.5,0,42,Montréal,19.2
+AP1701,A,débutant,65.4,1,27,Hors Québec,17.2
+AP1702,A,avancé,88.1,1,27,Hors Québec,26.9
+AP1703,B,débutant,62.1,1,19,Outaouais,21.3
+AP1704,A,débutant,42.1,0,40,Hors Québec,24.1
+AP1705,B,débutant,40.3,0,39,Québec,9.4
+AP1706,A,débutant,43.4,0,41,Québec,31.3
+AP1707,B,débutant,65.4,1,41,Québec,15.8
+AP1708,A,avancé,70.2,1,37,Québec,17.7
+AP1709,A,intermédiaire,52.8,0,37,Outaouais,18.3
+AP1710,A,avancé,58.2,0,34,Outaouais,23.6
+AP1711,A,intermédiaire,82.5,1,24,Outaouais,18.0
+AP1712,A,avancé,35.7,0,34,Québec,24.5
+AP1713,A,intermédiaire,46.6,0,24,Hors Québec,26.6
+AP1714,A,avancé,64.8,1,45,Hors Québec,27.7
+AP1715,B,intermédiaire,79.4,1,35,Québec,25.5
+AP1716,A,intermédiaire,37.9,0,29,Québec,20.5
+AP1717,A,intermédiaire,67.8,1,32,Hors Québec,16.4
+AP1718,A,avancé,64.3,1,25,Outaouais,10.6
+AP1719,A,avancé,65.0,1,39,Québec,28.7
+AP1720,B,intermédiaire,61.3,1,20,Montréal,22.0
+AP1721,B,débutant,47.1,0,22,Montréal,23.5
+AP1722,A,intermédiaire,59.2,0,42,Hors Québec,7.5
+AP1723,B,débutant,59.3,0,32,Outaouais,25.1
+AP1724,A,avancé,61.7,1,24,Hors Québec,13.2
+AP1725,A,avancé,53.6,0,39,Hors Québec,13.2
+AP1726,B,débutant,43.0,0,35,Outaouais,20.7
+AP1727,A,avancé,64.1,1,43,Québec,20.3
+AP1728,A,intermédiaire,57.8,0,24,Montréal,21.0
+AP1729,A,avancé,73.9,1,29,Hors Québec,21.6
+AP1730,A,intermédiaire,67.7,1,38,Montréal,24.1
+AP1731,B,débutant,50.7,0,34,Montréal,15.7
+AP1732,B,débutant,45.4,0,39,Outaouais,33.7
+AP1733,B,débutant,45.8,0,34,Hors Québec,26.5
+AP1734,B,débutant,49.2,0,35,Montréal,21.5
+AP1735,A,avancé,93.8,1,43,Montréal,23.9
+AP1736,A,avancé,64.9,1,28,Québec,26.0
+AP1737,B,débutant,59.2,0,32,Québec,17.6
+AP1738,B,avancé,41.7,0,20,Hors Québec,25.7
+AP1739,B,débutant,42.8,0,28,Montréal,21.6
+AP1740,B,débutant,46.7,0,38,Québec,17.2
+AP1741,B,débutant,70.0,1,25,Hors Québec,22.9
+AP1742,A,avancé,61.1,1,36,Outaouais,34.6
+AP1743,B,débutant,55.8,0,44,Outaouais,26.4
+AP1744,B,débutant,57.4,0,37,Montréal,18.3
+AP1745,A,avancé,43.4,0,22,Outaouais,29.4
+AP1746,A,intermédiaire,52.9,0,20,Hors Québec,33.1
+AP1747,A,débutant,72.1,1,20,Québec,24.6
+AP1748,A,avancé,70.6,1,44,Québec,23.9
+AP1749,B,débutant,49.8,0,33,Hors Québec,23.3
+AP1750,B,avancé,66.2,1,24,Québec,18.8
+AP1751,A,avancé,73.3,1,42,Hors Québec,24.9
+AP1752,B,avancé,79.6,1,44,Hors Québec,15.2
+AP1753,A,intermédiaire,79.2,1,34,Montréal,13.7
+AP1754,B,débutant,49.3,0,32,Outaouais,20.6
+AP1755,A,avancé,68.2,1,28,Montréal,19.2
+AP1756,A,avancé,52.4,0,43,Montréal,11.7
+AP1757,A,avancé,68.6,1,19,Hors Québec,24.2
+AP1758,B,intermédiaire,88.4,1,39,Hors Québec,22.4
+AP1759,B,débutant,63.0,1,44,Hors Québec,30.9
+AP1760,B,débutant,51.4,0,20,Outaouais,20.3
+AP1761,A,avancé,81.8,1,39,Outaouais,27.4
+AP1762,A,débutant,66.9,1,38,Hors Québec,18.1
+AP1763,B,débutant,31.1,0,25,Québec,23.9
+AP1764,B,débutant,57.7,0,28,Montréal,18.4
+AP1765,A,avancé,52.0,0,22,Outaouais,17.6
+AP1766,A,débutant,43.1,0,25,Hors Québec,28.5
+AP1767,B,débutant,51.3,0,29,Montréal,20.8
+AP1768,A,avancé,51.6,0,36,Hors Québec,22.9
+AP1769,B,débutant,70.8,1,37,Québec,32.0
+AP1770,A,intermédiaire,50.4,0,45,Outaouais,20.9
+AP1771,A,avancé,64.8,1,35,Outaouais,23.1
+AP1772,A,avancé,86.7,1,43,Montréal,26.5
+AP1773,A,avancé,66.3,1,33,Hors Québec,24.0
+AP1774,A,débutant,53.7,0,41,Hors Québec,14.7
+AP1775,B,intermédiaire,45.9,0,41,Montréal,12.3
+AP1776,B,débutant,80.8,1,43,Hors Québec,15.7
+AP1777,A,débutant,43.9,0,37,Hors Québec,22.1
+AP1778,B,débutant,37.3,0,39,Outaouais,30.9
+AP1779,B,débutant,63.4,1,37,Montréal,22.7
+AP1780,A,avancé,58.2,0,22,Hors Québec,28.6
+AP1781,B,avancé,78.8,1,32,Outaouais,14.5
+AP1782,B,débutant,41.6,0,31,Québec,23.4
+AP1783,B,débutant,36.5,0,22,Québec,39.3
+AP1784,B,débutant,60.2,1,45,Québec,22.9
+AP1785,A,avancé,61.3,1,32,Québec,24.0
+AP1786,B,débutant,40.1,0,35,Montréal,25.8
+AP1787,A,avancé,65.7,1,30,Montréal,24.5
+AP1788,A,avancé,80.7,1,33,Outaouais,32.3
+AP1789,B,débutant,64.9,1,25,Québec,15.4
+AP1790,A,intermédiaire,46.9,0,40,Hors Québec,21.5
+AP1791,B,débutant,42.9,0,24,Hors Québec,21.4
+AP1792,A,avancé,66.8,1,28,Hors Québec,22.3
+AP1793,A,débutant,46.5,0,28,Montréal,15.8
+AP1794,B,intermédiaire,56.2,0,37,Québec,22.6
+AP1795,A,intermédiaire,47.8,0,29,Montréal,41.2
+AP1796,B,débutant,41.6,0,31,Outaouais,16.7
+AP1797,A,avancé,100.0,1,34,Outaouais,28.4
+AP1798,A,avancé,72.1,1,44,Québec,20.4
+AP1799,A,débutant,65.8,1,27,Outaouais,27.5
+AP1800,B,débutant,60.2,1,25,Québec,22.1
+AP1801,A,avancé,84.2,1,23,Québec,14.5
+AP1802,B,débutant,60.0,1,37,Outaouais,16.6
+AP1803,B,débutant,58.0,0,23,Hors Québec,37.2
+AP1804,A,avancé,71.8,1,19,Québec,18.3
+AP1805,A,intermédiaire,64.7,1,40,Hors Québec,11.5
+AP1806,A,avancé,75.6,1,21,Montréal,18.6
+AP1807,A,intermédiaire,55.3,0,38,Outaouais,19.6
+AP1808,B,débutant,70.5,1,31,Outaouais,10.9
+AP1809,A,avancé,74.5,1,36,Outaouais,20.0
+AP1810,B,débutant,66.8,1,36,Hors Québec,30.6
+AP1811,A,avancé,77.7,1,30,Outaouais,24.7
+AP1812,A,avancé,88.1,1,42,Québec,27.0
+AP1813,B,débutant,62.7,1,35,Outaouais,18.0
+AP1814,A,avancé,89.2,1,30,Québec,22.5
+AP1815,A,avancé,84.5,1,28,Hors Québec,25.0
+AP1816,B,débutant,72.7,1,43,Montréal,23.9
+AP1817,A,avancé,57.9,0,36,Hors Québec,27.8
+AP1818,B,débutant,36.0,0,32,Outaouais,29.3
+AP1819,B,débutant,50.1,0,23,Hors Québec,24.7
+AP1820,A,avancé,60.7,1,45,Montréal,24.5
+AP1821,B,intermédiaire,77.9,1,41,Hors Québec,20.5
+AP1822,B,débutant,80.1,1,24,Québec,31.4
+AP1823,A,avancé,65.8,1,40,Hors Québec,18.1
+AP1824,B,débutant,63.5,1,31,Outaouais,22.7
+AP1825,B,intermédiaire,84.3,1,44,Québec,19.8
+AP1826,B,débutant,53.9,0,19,Montréal,26.5
+AP1827,B,débutant,72.6,1,34,Montréal,29.6
+AP1828,B,débutant,40.6,0,36,Outaouais,18.1
+AP1829,B,avancé,77.9,1,24,Montréal,27.3
+AP1830,B,avancé,82.4,1,29,Montréal,27.4
+AP1831,B,débutant,44.7,0,24,Montréal,18.2
+AP1832,A,avancé,70.7,1,39,Québec,18.6
+AP1833,B,débutant,38.4,0,28,Hors Québec,20.5
+AP1834,A,avancé,83.3,1,43,Montréal,15.1
+AP1835,B,débutant,55.2,0,30,Montréal,22.0
+AP1836,A,avancé,54.0,0,43,Outaouais,20.7
+AP1837,B,intermédiaire,68.6,1,36,Montréal,23.5
+AP1838,B,débutant,48.0,0,40,Outaouais,30.5
+AP1839,A,avancé,64.5,1,45,Québec,17.8
+AP1840,B,débutant,66.6,1,31,Outaouais,21.1
+AP1841,B,débutant,48.0,0,25,Québec,11.9
+AP1842,A,intermédiaire,66.4,1,40,Montréal,32.7
+AP1843,B,intermédiaire,57.2,0,45,Outaouais,24.6
+AP1844,A,avancé,76.8,1,29,Québec,21.9
+AP1845,B,débutant,40.0,0,34,Hors Québec,22.3
+AP1846,B,débutant,50.3,0,45,Québec,24.8
+AP1847,A,avancé,79.1,1,21,Montréal,24.7
+AP1848,A,avancé,65.7,1,30,Hors Québec,20.3
+AP1849,B,débutant,58.6,0,23,Montréal,22.8
+AP1850,A,avancé,76.6,1,31,Hors Québec,25.1
+AP1851,A,avancé,77.9,1,19,Québec,26.8
+AP1852,A,intermédiaire,36.0,0,40,Québec,19.7
+AP1853,A,intermédiaire,62.2,1,42,Outaouais,18.7
+AP1854,A,avancé,41.8,0,19,Hors Québec,24.4
+AP1855,A,avancé,56.8,0,36,Québec,20.5
+AP1856,B,débutant,60.1,1,22,Montréal,23.5
+AP1857,B,débutant,46.7,0,30,Hors Québec,25.3
+AP1858,B,débutant,54.2,0,42,Hors Québec,25.3
+AP1859,A,avancé,73.0,1,37,Hors Québec,22.3
+AP1860,A,avancé,70.6,1,38,Montréal,26.7
+AP1861,A,avancé,64.6,1,29,Outaouais,7.9
+AP1862,B,intermédiaire,72.7,1,34,Montréal,22.3
+AP1863,B,débutant,56.4,0,21,Montréal,21.2
+AP1864,A,avancé,40.5,0,44,Québec,15.5
+AP1865,A,intermédiaire,70.2,1,42,Montréal,11.2
+AP1866,B,débutant,56.0,0,29,Montréal,24.0
+AP1867,A,débutant,51.6,0,34,Outaouais,15.0
+AP1868,B,débutant,69.6,1,24,Hors Québec,5.9
+AP1869,B,débutant,55.9,0,44,Outaouais,22.2
+AP1870,A,intermédiaire,78.4,1,42,Outaouais,25.4
+AP1871,A,avancé,65.9,1,33,Québec,12.1
+AP1872,B,débutant,39.9,0,21,Québec,21.0
+AP1873,A,avancé,70.8,1,21,Hors Québec,30.5
+AP1874,B,débutant,58.9,0,25,Québec,24.4
+AP1875,B,débutant,69.0,1,43,Hors Québec,25.1
+AP1876,B,débutant,58.2,0,38,Québec,21.4
+AP1877,B,débutant,50.6,0,32,Québec,24.5
+AP1878,B,débutant,69.0,1,34,Montréal,22.5
+AP1879,A,avancé,80.9,1,38,Québec,17.1
+AP1880,A,avancé,55.3,0,26,Montréal,6.5
+AP1881,A,intermédiaire,72.8,1,26,Hors Québec,23.7
+AP1882,A,avancé,66.2,1,22,Outaouais,19.9
+AP1883,A,avancé,50.1,0,30,Hors Québec,14.7
+AP1884,B,débutant,53.8,0,26,Montréal,20.8
+AP1885,A,avancé,77.7,1,21,Outaouais,22.6
+AP1886,A,avancé,75.1,1,24,Montréal,25.5
+AP1887,A,avancé,82.9,1,36,Montréal,27.5
+AP1888,B,débutant,44.5,0,32,Montréal,25.2
+AP1889,B,débutant,74.3,1,28,Montréal,30.4
+AP1890,A,avancé,76.4,1,23,Hors Québec,14.2
+AP1891,B,intermédiaire,61.6,1,44,Hors Québec,23.1
+AP1892,A,avancé,74.2,1,40,Montréal,17.7
+AP1893,B,débutant,63.3,1,32,Québec,29.9
+AP1894,A,avancé,69.5,1,42,Montréal,24.6
+AP1895,B,débutant,33.6,0,19,Outaouais,25.0
+AP1896,B,débutant,42.6,0,43,Hors Québec,18.3
+AP1897,A,avancé,67.3,1,20,Montréal,17.5
+AP1898,B,débutant,42.7,0,36,Hors Québec,19.7
+AP1899,A,avancé,50.7,0,28,Outaouais,21.3
+AP1900,A,intermédiaire,71.2,1,45,Hors Québec,13.3
+AP1901,B,débutant,50.9,0,28,Montréal,18.5
+AP1902,A,avancé,74.7,1,29,Montréal,26.7
+AP1903,B,débutant,54.0,0,19,Montréal,24.0
+AP1904,B,avancé,72.7,1,28,Outaouais,19.0
+AP1905,B,intermédiaire,85.6,1,42,Québec,16.4
+AP1906,B,débutant,56.7,0,39,Outaouais,16.3
+AP1907,B,débutant,42.1,0,34,Outaouais,19.4
+AP1908,B,débutant,38.6,0,36,Montréal,28.2
+AP1909,B,débutant,42.8,0,22,Hors Québec,32.5
+AP1910,B,débutant,42.9,0,43,Outaouais,19.7
+AP1911,A,avancé,64.1,1,44,Montréal,20.0
+AP1912,B,débutant,52.2,0,43,Québec,20.4
+AP1913,A,avancé,78.7,1,22,Québec,28.9
+AP1914,B,débutant,58.8,0,24,Montréal,20.0
+AP1915,B,intermédiaire,57.2,0,33,Hors Québec,22.4
+AP1916,A,avancé,61.8,1,45,Hors Québec,30.0
+AP1917,A,avancé,60.7,1,19,Outaouais,28.0
+AP1918,A,débutant,54.6,0,42,Montréal,12.4
+AP1919,A,débutant,35.2,0,37,Montréal,23.0
+AP1920,B,intermédiaire,61.5,1,22,Hors Québec,27.0
+AP1921,B,débutant,62.0,1,34,Québec,27.4
+AP1922,A,avancé,52.7,0,26,Montréal,18.8
+AP1923,B,débutant,60.1,1,45,Montréal,23.5
+AP1924,B,avancé,64.9,1,21,Québec,25.5
+AP1925,A,avancé,58.7,0,37,Outaouais,28.2
+AP1926,A,intermédiaire,68.8,1,38,Québec,22.3
+AP1927,A,avancé,65.3,1,30,Hors Québec,13.1
+AP1928,A,avancé,80.6,1,40,Hors Québec,20.1
+AP1929,A,avancé,79.8,1,30,Outaouais,14.1
+AP1930,B,débutant,58.5,0,24,Hors Québec,20.9
+AP1931,A,avancé,85.1,1,40,Québec,23.2
+AP1932,B,débutant,58.6,0,39,Montréal,29.2
+AP1933,A,avancé,84.2,1,26,Hors Québec,19.4
+AP1934,A,avancé,68.7,1,42,Hors Québec,16.8
+AP1935,A,avancé,58.1,0,22,Hors Québec,16.8
+AP1936,B,débutant,42.2,0,23,Outaouais,14.5
+AP1937,A,intermédiaire,58.2,0,31,Outaouais,30.1
+AP1938,A,avancé,82.9,1,38,Québec,17.9
+AP1939,B,débutant,41.1,0,30,Québec,25.5
+AP1940,B,avancé,72.1,1,24,Outaouais,21.6
+AP1941,A,avancé,52.2,0,45,Montréal,16.7
+AP1942,B,débutant,72.5,1,38,Outaouais,26.2
+AP1943,B,débutant,76.5,1,35,Montréal,21.1
+AP1944,A,avancé,80.2,1,38,Hors Québec,30.3
+AP1945,B,débutant,38.7,0,21,Outaouais,19.6
+AP1946,A,avancé,81.2,1,28,Québec,17.0
+AP1947,A,débutant,49.4,0,29,Québec,34.6
+AP1948,A,intermédiaire,56.9,0,37,Québec,23.9
+AP1949,A,avancé,68.1,1,22,Québec,25.5
+AP1950,A,avancé,72.1,1,32,Montréal,13.9
+AP1951,A,avancé,69.8,1,28,Outaouais,12.6
+AP1952,A,avancé,67.6,1,26,Montréal,18.8
+AP1953,B,débutant,46.7,0,32,Hors Québec,32.9
+AP1954,A,avancé,74.9,1,35,Hors Québec,22.2
+AP1955,B,intermédiaire,48.2,0,27,Québec,25.6
+AP1956,A,débutant,56.2,0,41,Outaouais,26.3
+AP1957,A,avancé,81.4,1,37,Outaouais,28.6
+AP1958,B,débutant,28.5,0,24,Québec,21.5
+AP1959,A,intermédiaire,68.0,1,34,Montréal,21.0
+AP1960,A,avancé,55.3,0,21,Hors Québec,27.1
+AP1961,B,débutant,72.1,1,45,Outaouais,28.6
+AP1962,B,débutant,50.5,0,19,Montréal,23.9
+AP1963,B,débutant,50.0,0,38,Québec,17.9
+AP1964,A,avancé,92.7,1,23,Québec,28.4
+AP1965,A,avancé,52.5,0,40,Hors Québec,26.6
+AP1966,A,avancé,42.2,0,29,Outaouais,14.0
+AP1967,A,avancé,82.2,1,29,Outaouais,18.5
+AP1968,A,avancé,79.0,1,22,Hors Québec,16.5
+AP1969,B,débutant,44.4,0,44,Hors Québec,20.7
+AP1970,A,intermédiaire,50.3,0,29,Montréal,13.8
+AP1971,B,débutant,67.0,1,31,Québec,13.0
+AP1972,B,débutant,73.2,1,31,Montréal,12.2
+AP1973,A,avancé,58.5,0,20,Montréal,26.2
+AP1974,A,avancé,60.6,1,24,Hors Québec,22.0
+AP1975,B,débutant,44.0,0,21,Hors Québec,11.5
+AP1976,B,débutant,55.1,0,22,Québec,23.2
+AP1977,A,avancé,76.2,1,33,Québec,23.6
+AP1978,A,avancé,61.3,1,21,Outaouais,23.6
+AP1979,B,débutant,43.2,0,25,Montréal,27.2
+AP1980,B,intermédiaire,64.3,1,39,Québec,32.7
+AP1981,A,avancé,69.5,1,28,Hors Québec,20.1
+AP1982,B,intermédiaire,61.3,1,37,Hors Québec,17.0
+AP1983,B,intermédiaire,61.5,1,45,Montréal,18.0
+AP1984,B,débutant,51.9,0,28,Hors Québec,20.6
+AP1985,B,débutant,28.9,0,29,Hors Québec,21.1
+AP1986,B,avancé,66.4,1,43,Outaouais,13.9
+AP1987,B,débutant,50.5,0,30,Hors Québec,8.4
+AP1988,A,intermédiaire,65.7,1,21,Montréal,19.6
+AP1989,B,débutant,53.9,0,42,Québec,19.8
+AP1990,B,débutant,53.9,0,45,Montréal,30.2
+AP1991,A,intermédiaire,54.6,0,43,Montréal,14.8
+AP1992,A,intermédiaire,74.9,1,43,Hors Québec,19.4
+AP1993,B,débutant,55.9,0,38,Montréal,19.8
+AP1994,A,avancé,43.8,0,22,Montréal,19.7
+AP1995,A,avancé,79.2,1,21,Outaouais,24.8
+AP1996,B,débutant,70.2,1,36,Outaouais,26.5
+AP1997,B,débutant,22.4,0,30,Montréal,25.5
+AP1998,B,débutant,38.4,0,39,Hors Québec,24.5
+AP1999,A,avancé,73.6,1,25,Hors Québec,23.7
+AP2000,A,débutant,22.5,0,20,Hors Québec,32.8
+AP2001,B,débutant,55.6,0,27,Québec,27.4
+AP2002,B,débutant,83.6,1,19,Québec,25.7
+AP2003,B,débutant,64.8,1,22,Québec,22.9
+AP2004,A,avancé,86.8,1,29,Hors Québec,24.5
+AP2005,B,débutant,47.1,0,27,Hors Québec,29.7
+AP2006,B,débutant,56.8,0,22,Québec,23.4
+AP2007,B,intermédiaire,65.6,1,36,Québec,26.1
+AP2008,A,avancé,78.0,1,43,Québec,27.4
+AP2009,A,avancé,71.9,1,25,Montréal,20.5
+AP2010,A,avancé,65.9,1,26,Montréal,19.8
+AP2011,A,avancé,72.3,1,23,Montréal,24.3
+AP2012,B,débutant,45.9,0,35,Québec,25.8
+AP2013,A,avancé,64.1,1,27,Montréal,20.3
+AP2014,B,débutant,31.4,0,22,Québec,29.0
+AP2015,A,intermédiaire,45.7,0,31,Hors Québec,30.5
+AP2016,A,avancé,70.8,1,20,Montréal,25.3
+AP2017,B,débutant,65.8,1,27,Québec,12.2
+AP2018,A,avancé,76.5,1,40,Hors Québec,15.8
+AP2019,A,avancé,68.5,1,33,Outaouais,25.5
+AP2020,B,débutant,60.1,1,34,Québec,22.3
+AP2021,A,intermédiaire,51.1,0,26,Montréal,25.8
+AP2022,A,intermédiaire,61.2,1,36,Hors Québec,29.2
+AP2023,B,débutant,43.5,0,40,Québec,21.0
+AP2024,B,débutant,58.2,0,39,Outaouais,23.1
+AP2025,A,débutant,49.8,0,40,Québec,19.5
+AP2026,A,avancé,63.7,1,38,Outaouais,30.8
+AP2027,B,avancé,73.5,1,45,Hors Québec,22.6
+AP2028,B,débutant,54.3,0,25,Hors Québec,18.0
+AP2029,A,avancé,67.0,1,37,Hors Québec,6.0
+AP2030,A,avancé,57.0,0,25,Hors Québec,31.4
+AP2031,B,débutant,53.8,0,45,Hors Québec,26.5
+AP2032,B,débutant,33.0,0,34,Montréal,16.4
+AP2033,A,avancé,71.2,1,20,Hors Québec,23.1
+AP2034,B,débutant,49.7,0,43,Montréal,23.7
+AP2035,A,avancé,85.4,1,38,Québec,21.2
+AP2036,B,débutant,63.0,1,19,Québec,16.5
+AP2037,A,avancé,82.4,1,36,Hors Québec,19.4
+AP2038,A,avancé,78.8,1,24,Montréal,13.8
+AP2039,B,débutant,27.1,0,41,Outaouais,17.1
+AP2040,A,avancé,61.4,1,37,Montréal,21.2
+AP2041,A,avancé,60.3,1,20,Hors Québec,36.6
+AP2042,B,avancé,80.5,1,37,Hors Québec,23.3
+AP2043,A,avancé,75.7,1,39,Montréal,20.3
+AP2044,A,avancé,80.5,1,29,Québec,14.3
+AP2045,A,avancé,48.8,0,24,Hors Québec,27.5
+AP2046,B,débutant,36.7,0,19,Québec,29.3
+AP2047,B,débutant,59.4,0,30,Québec,23.9
+AP2048,A,avancé,71.3,1,30,Montréal,28.7
+AP2049,B,débutant,43.4,0,24,Outaouais,27.7
+AP2050,B,débutant,51.7,0,25,Montréal,19.2
+AP2051,A,avancé,84.7,1,33,Québec,27.3
+AP2052,A,avancé,83.9,1,30,Outaouais,20.1
+AP2053,A,intermédiaire,62.1,1,31,Outaouais,19.3
+AP2054,A,avancé,79.6,1,22,Québec,22.1
+AP2055,A,avancé,52.2,0,43,Québec,24.2
+AP2056,B,débutant,49.8,0,41,Québec,12.4
+AP2057,B,débutant,58.3,0,37,Montréal,19.9
+AP2058,B,intermédiaire,76.5,1,28,Québec,18.5
+AP2059,B,débutant,55.1,0,27,Hors Québec,12.4
+AP2060,B,débutant,66.1,1,44,Québec,9.6
+AP2061,A,avancé,61.9,1,21,Québec,22.7
+AP2062,A,avancé,76.8,1,36,Outaouais,8.3
+AP2063,B,débutant,60.1,1,44,Outaouais,28.6
+AP2064,B,débutant,45.3,0,20,Hors Québec,8.7
+AP2065,B,débutant,70.4,1,34,Québec,17.3
+AP2066,A,avancé,70.7,1,31,Outaouais,25.8
+AP2067,A,avancé,52.5,0,39,Hors Québec,26.9
+AP2068,A,débutant,51.7,0,38,Outaouais,15.8
+AP2069,B,débutant,51.3,0,45,Montréal,18.3
+AP2070,B,avancé,75.1,1,36,Outaouais,18.2
+AP2071,B,débutant,59.4,0,23,Québec,16.0
+AP2072,B,débutant,68.4,1,35,Montréal,21.0
+AP2073,B,débutant,41.3,0,42,Outaouais,24.8
+AP2074,B,débutant,55.2,0,32,Québec,13.4
+AP2075,B,débutant,56.6,0,33,Outaouais,15.8
+AP2076,B,débutant,44.1,0,39,Outaouais,26.3
+AP2077,A,avancé,64.6,1,42,Hors Québec,34.9
+AP2078,B,débutant,41.4,0,37,Montréal,14.3
+AP2079,A,avancé,74.2,1,25,Québec,25.9
+AP2080,A,avancé,60.5,1,23,Montréal,20.5
+AP2081,B,débutant,54.3,0,31,Outaouais,24.4
+AP2082,A,avancé,60.1,1,28,Montréal,25.7
+AP2083,B,débutant,60.5,1,42,Québec,34.5
+AP2084,A,avancé,71.3,1,22,Outaouais,15.0
+AP2085,B,débutant,50.4,0,41,Outaouais,21.0
+AP2086,A,avancé,88.5,1,39,Québec,26.2
+AP2087,B,débutant,45.0,0,37,Montréal,22.3
+AP2088,B,débutant,50.1,0,26,Québec,24.4
+AP2089,B,débutant,48.2,0,21,Outaouais,36.0
+AP2090,B,débutant,52.5,0,45,Hors Québec,28.6
+AP2091,A,avancé,58.2,0,35,Montréal,24.1
+AP2092,A,avancé,72.7,1,28,Outaouais,23.5
+AP2093,B,avancé,58.9,0,20,Outaouais,27.9
+AP2094,A,avancé,94.0,1,19,Hors Québec,31.1
+AP2095,A,intermédiaire,51.1,0,31,Montréal,13.3
+AP2096,A,avancé,76.9,1,32,Québec,18.1
+AP2097,A,avancé,71.3,1,44,Montréal,23.7
+AP2098,B,débutant,58.8,0,28,Québec,30.0
+AP2099,B,débutant,51.3,0,36,Québec,13.2
+AP2100,A,avancé,61.8,1,28,Québec,20.5
+AP2101,A,avancé,69.8,1,29,Outaouais,26.7
+AP2102,B,avancé,96.1,1,35,Hors Québec,22.5
+AP2103,B,intermédiaire,70.7,1,20,Outaouais,20.8
+AP2104,A,avancé,56.5,0,22,Québec,17.7
+AP2105,A,avancé,75.4,1,37,Québec,24.2
+AP2106,A,avancé,100.0,1,34,Outaouais,25.7
+AP2107,B,débutant,35.2,0,32,Montréal,21.6
+AP2108,B,débutant,55.5,0,27,Québec,19.9
+AP2109,A,avancé,65.5,1,21,Hors Québec,20.7
+AP2110,B,avancé,50.4,0,41,Québec,22.0
+AP2111,A,avancé,69.4,1,38,Hors Québec,28.3
+AP2112,B,débutant,40.5,0,37,Québec,15.9
+AP2113,B,débutant,68.9,1,31,Montréal,20.2
+AP2114,A,avancé,60.7,1,33,Montréal,17.5
+AP2115,B,avancé,68.2,1,39,Québec,24.0
+AP2116,B,débutant,45.1,0,45,Québec,11.1
+AP2117,A,intermédiaire,37.8,0,29,Hors Québec,17.2
+AP2118,A,intermédiaire,46.5,0,21,Montréal,22.2
+AP2119,A,avancé,51.1,0,25,Montréal,26.4
+AP2120,A,avancé,70.5,1,24,Outaouais,25.2
+AP2121,A,avancé,74.7,1,21,Hors Québec,18.3
+AP2122,B,débutant,27.8,0,24,Outaouais,19.9
+AP2123,B,débutant,39.1,0,45,Québec,18.8
+AP2124,B,débutant,56.2,0,24,Québec,19.2
+AP2125,B,débutant,45.1,0,45,Québec,31.2
+AP2126,B,débutant,60.6,1,35,Outaouais,24.7
+AP2127,B,débutant,31.8,0,29,Outaouais,20.5
+AP2128,A,intermédiaire,61.3,1,19,Montréal,28.7
+AP2129,A,intermédiaire,54.3,0,39,Montréal,24.9
+AP2130,A,débutant,37.0,0,31,Outaouais,23.4
+AP2131,B,débutant,45.6,0,19,Montréal,27.6
+AP2132,B,débutant,57.0,0,39,Québec,20.9
+AP2133,B,débutant,54.0,0,31,Montréal,26.1
+AP2134,A,avancé,55.6,0,23,Hors Québec,21.4
+AP2135,B,débutant,64.6,1,26,Hors Québec,25.5
+AP2136,A,avancé,65.8,1,20,Montréal,30.4
+AP2137,B,débutant,36.8,0,45,Québec,23.8
+AP2138,B,débutant,61.4,1,40,Québec,18.9
+AP2139,A,avancé,80.5,1,43,Hors Québec,14.1
+AP2140,B,débutant,53.5,0,39,Hors Québec,29.6
+AP2141,B,intermédiaire,84.4,1,29,Québec,16.5
+AP2142,A,intermédiaire,62.5,1,27,Québec,22.4
+AP2143,B,débutant,58.5,0,39,Outaouais,23.0
+AP2144,A,débutant,59.8,0,37,Montréal,13.6
+AP2145,A,avancé,74.3,1,25,Hors Québec,17.4
+AP2146,A,intermédiaire,66.1,1,22,Québec,26.5
+AP2147,A,intermédiaire,57.0,0,37,Outaouais,25.1
+AP2148,B,avancé,100.0,1,45,Outaouais,15.7
+AP2149,B,débutant,51.3,0,21,Outaouais,15.1
+AP2150,A,avancé,69.1,1,28,Québec,23.6
+AP2151,A,intermédiaire,61.5,1,43,Québec,25.1
+AP2152,A,avancé,68.3,1,35,Montréal,18.7
+AP2153,B,débutant,57.3,0,39,Hors Québec,14.3
+AP2154,B,débutant,57.6,0,34,Outaouais,24.1
+AP2155,B,intermédiaire,81.4,1,25,Montréal,18.5
+AP2156,A,avancé,72.4,1,38,Outaouais,28.5
+AP2157,A,avancé,71.1,1,42,Outaouais,20.7
+AP2158,A,avancé,52.1,0,31,Montréal,24.0
+AP2159,B,débutant,70.3,1,24,Hors Québec,21.4
+AP2160,A,avancé,76.5,1,41,Montréal,23.4
+AP2161,A,avancé,62.0,1,32,Outaouais,21.5
+AP2162,B,débutant,41.4,0,28,Outaouais,22.8
+AP2163,B,débutant,37.9,0,28,Hors Québec,24.6
+AP2164,A,avancé,41.5,0,25,Québec,19.0
+AP2165,B,débutant,61.0,1,45,Outaouais,20.0
+AP2166,B,débutant,57.7,0,42,Outaouais,14.8
+AP2167,B,débutant,25.5,0,23,Outaouais,27.6
+AP2168,A,avancé,71.5,1,40,Québec,15.3
+AP2169,B,débutant,54.5,0,28,Outaouais,31.2
+AP2170,B,débutant,53.2,0,38,Outaouais,24.1
+AP2171,B,débutant,70.3,1,42,Montréal,20.0
+AP2172,A,avancé,53.5,0,40,Outaouais,19.5
+AP2173,A,avancé,82.1,1,30,Montréal,16.0
+AP2174,A,avancé,83.0,1,23,Hors Québec,27.4
+AP2175,B,débutant,48.1,0,19,Montréal,17.2
+AP2176,A,avancé,72.2,1,37,Outaouais,20.5
+AP2177,A,avancé,56.0,0,22,Hors Québec,14.8
+AP2178,B,débutant,74.9,1,36,Québec,19.6
+AP2179,B,débutant,41.0,0,36,Outaouais,21.7
+AP2180,B,débutant,59.5,0,25,Montréal,22.4
+AP2181,A,avancé,63.7,1,20,Montréal,21.1
+AP2182,A,intermédiaire,58.0,0,35,Québec,36.6
+AP2183,A,avancé,74.9,1,30,Hors Québec,20.8
+AP2184,A,avancé,79.4,1,42,Hors Québec,27.1
+AP2185,A,avancé,80.8,1,37,Outaouais,18.2
+AP2186,B,débutant,47.9,0,37,Hors Québec,21.2
+AP2187,A,intermédiaire,78.7,1,39,Montréal,31.5
+AP2188,B,débutant,47.2,0,24,Montréal,30.1
+AP2189,B,avancé,74.5,1,27,Montréal,24.1
+AP2190,B,avancé,78.1,1,35,Outaouais,17.9
+AP2191,B,intermédiaire,67.5,1,35,Montréal,14.2
+AP2192,B,débutant,23.0,0,39,Québec,17.5
+AP2193,B,intermédiaire,55.1,0,39,Québec,32.0
+AP2194,A,avancé,70.8,1,41,Outaouais,36.5
+AP2195,B,débutant,63.1,1,33,Montréal,24.6
+AP2196,A,avancé,81.7,1,42,Québec,22.4
+AP2197,A,avancé,60.2,1,38,Outaouais,18.0
+AP2198,B,intermédiaire,63.7,1,23,Outaouais,17.3
+AP2199,A,avancé,70.9,1,21,Montréal,18.4
+AP2200,A,avancé,64.6,1,35,Montréal,13.1
+AP2201,A,avancé,77.9,1,24,Outaouais,18.8
+AP2202,A,avancé,62.5,1,45,Québec,19.5
+AP2203,B,débutant,55.9,0,39,Montréal,35.1
+AP2204,A,intermédiaire,54.8,0,26,Hors Québec,13.1
+AP2205,A,intermédiaire,63.1,1,25,Outaouais,15.9
+AP2206,B,débutant,44.7,0,39,Québec,25.9
+AP2207,B,débutant,41.9,0,43,Montréal,15.2
+AP2208,A,avancé,47.7,0,34,Hors Québec,18.4
+AP2209,B,débutant,61.4,1,19,Hors Québec,26.4
+AP2210,B,débutant,28.8,0,41,Outaouais,23.8
+AP2211,A,avancé,61.6,1,26,Hors Québec,12.2
+AP2212,A,intermédiaire,50.5,0,20,Hors Québec,31.5
+AP2213,A,avancé,92.2,1,21,Outaouais,15.5
+AP2214,B,débutant,65.7,1,19,Montréal,19.0
+AP2215,B,débutant,52.7,0,40,Outaouais,13.9
+AP2216,A,avancé,66.2,1,29,Québec,21.9
+AP2217,A,avancé,66.7,1,38,Hors Québec,27.6
+AP2218,A,avancé,68.6,1,42,Montréal,23.6
+AP2219,A,avancé,78.8,1,36,Outaouais,25.9
+AP2220,B,débutant,69.7,1,25,Montréal,24.4
+AP2221,B,débutant,66.9,1,19,Outaouais,20.7
+AP2222,B,débutant,74.2,1,21,Outaouais,18.0
+AP2223,A,avancé,56.4,0,32,Québec,22.1
+AP2224,B,débutant,62.4,1,29,Hors Québec,17.2
+AP2225,A,débutant,45.6,0,19,Outaouais,19.7
+AP2226,B,intermédiaire,70.1,1,38,Hors Québec,23.5
+AP2227,A,avancé,57.9,0,38,Hors Québec,18.8
+AP2228,B,débutant,55.4,0,27,Québec,24.5
+AP2229,A,avancé,87.9,1,32,Québec,14.5
+AP2230,B,intermédiaire,68.9,1,30,Outaouais,26.6
+AP2231,A,avancé,93.8,1,36,Québec,19.3
+AP2232,A,intermédiaire,61.9,1,29,Outaouais,21.5
+AP2233,A,avancé,79.2,1,37,Hors Québec,15.7
+AP2234,B,intermédiaire,20.4,0,35,Hors Québec,20.9
+AP2235,B,débutant,53.5,0,23,Québec,10.6
+AP2236,B,débutant,73.9,1,42,Québec,16.7
+AP2237,B,avancé,72.2,1,26,Hors Québec,25.2
+AP2238,A,avancé,67.1,1,26,Hors Québec,18.1
+AP2239,A,avancé,58.5,0,33,Outaouais,25.6
+AP2240,B,débutant,54.5,0,45,Hors Québec,22.0
+AP2241,A,intermédiaire,78.7,1,26,Montréal,19.0
+AP2242,B,débutant,49.1,0,44,Québec,22.1
+AP2243,A,intermédiaire,80.5,1,25,Montréal,16.6
+AP2244,B,intermédiaire,47.1,0,39,Québec,32.2
+AP2245,A,avancé,81.8,1,33,Outaouais,23.8
+AP2246,B,avancé,89.8,1,35,Montréal,9.1
+AP2247,B,débutant,57.5,0,34,Montréal,24.6
+AP2248,A,intermédiaire,56.3,0,33,Montréal,23.3
+AP2249,A,avancé,85.0,1,22,Montréal,20.8
+AP2250,A,avancé,50.5,0,25,Outaouais,27.8
+AP2251,B,débutant,47.7,0,23,Québec,19.6
+AP2252,B,débutant,52.0,0,28,Outaouais,20.0
+AP2253,A,avancé,73.7,1,35,Québec,21.1
+AP2254,B,débutant,54.7,0,21,Outaouais,22.0
+AP2255,A,débutant,47.0,0,29,Montréal,18.2
+AP2256,B,débutant,65.5,1,40,Outaouais,25.0
+AP2257,B,débutant,60.8,1,27,Québec,17.3
+AP2258,B,débutant,48.7,0,45,Hors Québec,22.9
+AP2259,B,intermédiaire,67.0,1,43,Québec,28.3
+AP2260,B,débutant,56.6,0,38,Hors Québec,12.8
+AP2261,A,avancé,70.9,1,45,Montréal,26.8
+AP2262,A,avancé,69.6,1,29,Montréal,7.0
+AP2263,A,avancé,64.8,1,27,Outaouais,10.0
+AP2264,A,avancé,88.7,1,27,Hors Québec,22.7
+AP2265,B,intermédiaire,59.2,0,21,Québec,18.6
+AP2266,A,débutant,40.2,0,32,Québec,24.3
+AP2267,A,avancé,64.4,1,19,Hors Québec,3.8
+AP2268,B,débutant,48.8,0,44,Québec,27.2
+AP2269,A,avancé,72.2,1,38,Outaouais,17.5
+AP2270,B,débutant,50.5,0,34,Hors Québec,26.2
+AP2271,B,débutant,64.1,1,31,Hors Québec,18.8
+AP2272,A,avancé,80.3,1,44,Outaouais,15.8
+AP2273,A,avancé,59.3,0,26,Outaouais,7.4
+AP2274,B,débutant,71.2,1,31,Montréal,34.2
+AP2275,A,avancé,70.6,1,34,Montréal,23.4
+AP2276,B,débutant,66.8,1,28,Montréal,18.1
+AP2277,B,avancé,74.1,1,41,Outaouais,20.5
+AP2278,B,débutant,75.1,1,23,Hors Québec,14.3
+AP2279,A,avancé,65.1,1,43,Hors Québec,13.3
+AP2280,A,intermédiaire,46.7,0,26,Québec,24.5
+AP2281,B,débutant,44.7,0,33,Hors Québec,7.1
+AP2282,B,débutant,66.7,1,33,Hors Québec,31.2
+AP2283,B,débutant,64.0,1,20,Hors Québec,21.0
+AP2284,A,avancé,92.4,1,42,Outaouais,16.5
+AP2285,A,avancé,63.4,1,42,Montréal,26.9
+AP2286,B,débutant,57.2,0,24,Montréal,19.8
+AP2287,A,avancé,68.8,1,32,Outaouais,17.7
+AP2288,A,avancé,63.3,1,33,Outaouais,23.4
+AP2289,A,débutant,56.0,0,22,Québec,20.8
+AP2290,A,avancé,56.2,0,34,Outaouais,18.8
+AP2291,A,avancé,67.9,1,24,Hors Québec,25.4
+AP2292,A,avancé,65.1,1,39,Québec,22.3
+AP2293,A,avancé,65.0,1,29,Montréal,13.9
+AP2294,B,débutant,56.2,0,28,Montréal,25.4
+AP2295,A,avancé,58.7,0,45,Montréal,27.4
+AP2296,B,avancé,78.9,1,38,Outaouais,14.3
+AP2297,B,débutant,78.3,1,24,Outaouais,24.1
+AP2298,A,avancé,68.4,1,25,Montréal,17.5
+AP2299,A,avancé,66.8,1,20,Québec,16.5
+AP2300,A,avancé,79.0,1,31,Québec,32.7
+AP2301,B,débutant,58.5,0,41,Québec,14.9
+AP2302,B,avancé,82.9,1,30,Outaouais,27.1
+AP2303,A,avancé,92.9,1,41,Outaouais,10.9
+AP2304,B,débutant,68.2,1,36,Québec,21.8
+AP2305,B,débutant,67.8,1,28,Outaouais,14.7
+AP2306,A,avancé,82.7,1,41,Montréal,18.5
+AP2307,B,débutant,66.4,1,26,Montréal,16.7
+AP2308,B,débutant,49.7,0,26,Québec,19.0
+AP2309,B,avancé,75.0,1,33,Québec,21.5
+AP2310,B,débutant,60.0,1,21,Québec,19.3
+AP2311,B,débutant,49.1,0,41,Hors Québec,13.3
+AP2312,A,avancé,77.5,1,45,Hors Québec,33.9
+AP2313,B,débutant,56.8,0,22,Hors Québec,23.4
+AP2314,A,avancé,47.7,0,25,Montréal,25.9
+AP2315,B,débutant,50.1,0,33,Outaouais,16.7
+AP2316,A,avancé,78.9,1,38,Hors Québec,19.9
+AP2317,B,débutant,75.7,1,20,Québec,26.1
+AP2318,A,intermédiaire,44.7,0,42,Outaouais,18.7
+AP2319,A,intermédiaire,58.5,0,40,Outaouais,23.2
+AP2320,A,avancé,62.5,1,34,Outaouais,22.1
+AP2321,B,avancé,82.5,1,44,Outaouais,13.5
+AP2322,B,débutant,58.2,0,24,Outaouais,17.0
+AP2323,A,avancé,60.8,1,36,Outaouais,22.3
+AP2324,B,avancé,87.0,1,41,Québec,17.1
+AP2325,A,avancé,86.7,1,24,Hors Québec,28.6
+AP2326,B,avancé,84.2,1,23,Hors Québec,10.8
+AP2327,B,débutant,68.9,1,41,Québec,23.3
+AP2328,B,débutant,25.6,0,39,Québec,9.9
+AP2329,A,avancé,50.9,0,21,Hors Québec,21.6
+AP2330,B,débutant,58.8,0,43,Hors Québec,23.4
+AP2331,B,intermédiaire,57.4,0,43,Québec,27.6
+AP2332,A,avancé,72.2,1,36,Montréal,21.9
+AP2333,A,avancé,73.5,1,37,Outaouais,23.7
+AP2334,A,avancé,80.3,1,36,Québec,17.7
+AP2335,B,intermédiaire,62.8,1,26,Outaouais,21.7
+AP2336,B,débutant,62.8,1,35,Montréal,33.4
+AP2337,A,intermédiaire,57.2,0,33,Montréal,28.4
+AP2338,A,avancé,55.4,0,19,Outaouais,26.8
+AP2339,B,débutant,66.7,1,27,Montréal,15.1
+AP2340,B,intermédiaire,72.4,1,27,Montréal,20.9
+AP2341,B,intermédiaire,63.5,1,31,Montréal,24.4
+AP2342,B,débutant,57.9,0,44,Hors Québec,14.8
+AP2343,A,avancé,62.3,1,42,Montréal,8.7
+AP2344,B,intermédiaire,83.9,1,26,Québec,27.3
+AP2345,B,débutant,34.3,0,22,Montréal,21.4
+AP2346,B,débutant,75.1,1,27,Hors Québec,20.4
+AP2347,B,débutant,61.2,1,31,Québec,20.0
+AP2348,B,intermédiaire,61.0,1,30,Québec,16.5
+AP2349,A,intermédiaire,56.6,0,42,Outaouais,26.5
+AP2350,A,avancé,65.6,1,40,Montréal,18.8
+AP2351,A,intermédiaire,55.9,0,36,Montréal,15.9
+AP2352,A,avancé,53.3,0,43,Hors Québec,22.3
+AP2353,B,intermédiaire,47.5,0,24,Outaouais,20.2
+AP2354,A,avancé,76.8,1,24,Québec,15.0
+AP2355,A,avancé,63.9,1,24,Montréal,26.7
+AP2356,A,débutant,56.2,0,31,Québec,7.3
+AP2357,A,avancé,66.3,1,22,Outaouais,24.0
+AP2358,A,débutant,57.5,0,37,Québec,19.0
+AP2359,B,intermédiaire,82.1,1,29,Hors Québec,14.5
+AP2360,B,débutant,60.4,1,32,Montréal,23.1
+AP2361,B,intermédiaire,71.5,1,40,Montréal,26.9
+AP2362,A,avancé,85.9,1,37,Montréal,18.5
+AP2363,A,avancé,71.2,1,42,Québec,24.7
+AP2364,B,débutant,44.7,0,32,Outaouais,18.7
+AP2365,B,débutant,61.5,1,44,Hors Québec,18.8
+AP2366,B,avancé,89.8,1,37,Montréal,7.3
+AP2367,A,avancé,76.5,1,36,Québec,18.1
+AP2368,A,avancé,82.7,1,22,Hors Québec,17.1
+AP2369,A,intermédiaire,57.1,0,45,Hors Québec,20.4
+AP2370,B,débutant,43.4,0,44,Montréal,22.3
+AP2371,B,débutant,40.9,0,22,Montréal,20.7
+AP2372,B,débutant,56.1,0,23,Outaouais,14.1
+AP2373,B,débutant,66.4,1,35,Québec,21.0
+AP2374,B,intermédiaire,75.2,1,26,Montréal,19.2
+AP2375,A,avancé,57.3,0,29,Québec,19.0
+AP2376,B,débutant,46.8,0,43,Montréal,20.0
+AP2377,A,avancé,70.4,1,31,Montréal,16.1
+AP2378,B,intermédiaire,78.1,1,43,Montréal,16.4
+AP2379,B,débutant,42.2,0,44,Outaouais,17.5
+AP2380,A,intermédiaire,56.0,0,38,Outaouais,12.9
+AP2381,A,avancé,51.2,0,23,Montréal,19.9
+AP2382,A,avancé,74.9,1,32,Montréal,31.1
+AP2383,A,intermédiaire,49.6,0,35,Québec,20.9
+AP2384,A,avancé,48.2,0,25,Outaouais,23.7
+AP2385,A,avancé,70.0,1,37,Outaouais,31.3
+AP2386,B,débutant,65.7,1,25,Montréal,21.5
+AP2387,B,débutant,65.5,1,27,Montréal,15.7
+AP2388,B,débutant,65.3,1,26,Outaouais,31.0
+AP2389,B,débutant,61.8,1,25,Hors Québec,19.8
+AP2390,B,débutant,54.1,0,26,Montréal,16.7
+AP2391,B,intermédiaire,58.9,0,43,Hors Québec,26.0
+AP2392,B,intermédiaire,74.8,1,45,Québec,18.6
+AP2393,B,intermédiaire,50.4,0,32,Outaouais,29.4
+AP2394,B,débutant,21.1,0,29,Outaouais,30.5
+AP2395,B,débutant,27.5,0,34,Montréal,18.9
+AP2396,B,débutant,49.3,0,39,Hors Québec,26.8
+AP2397,B,débutant,83.7,1,42,Montréal,22.9
+AP2398,A,intermédiaire,51.5,0,19,Hors Québec,22.8
+AP2399,B,débutant,51.1,0,26,Outaouais,18.3
+AP2400,A,intermédiaire,61.2,1,37,Hors Québec,23.5
